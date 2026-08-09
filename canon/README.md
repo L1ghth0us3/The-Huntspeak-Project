@@ -1,6 +1,6 @@
 # Official Canon
 
-This folder holds the **in-game / official** Huntspeak material — the highest authority in the project (see `GOVERNANCE.md`).
+This folder holds the **in-game / official** Huntspeak material, the highest authority in the project (see `GOVERNANCE.md`).
 
 | File | Contents |
 | --- | --- |

@@ -11,7 +11,7 @@
   notes: >-
     Listed as a root in official canon; transparently related to v- "have" +
     qäsh "love". The canon phrase "î veqash su" (I love you) is treated as
-    fixed — see phrases.yaml and open question D11.
+    fixed - see phrases.yaml and open question D11.
 
 - lemma: t-kh-r
   ipa: t-χ-r
@@ -148,7 +148,7 @@
   root: r-kh-d
   status: canon
   source: [base-dict]
-  notes: '"To lose (a fight)" is a recorded empty slot in the original dictionary — see development/gaps.md.'
+  notes: '"To lose (a fight)" is a recorded empty slot in the original dictionary, see development/gaps.md.'
 
 - lemma: b-v-r
   ipa: b-v-r
@@ -258,7 +258,7 @@
   status: canon
   variants: [n-r-f]
   source: [base-notes, legend, decision:D10]
-  notes: Originally noted as n-r-f; /f/ is not in the inventory and the legend conjugates neruv — corrected per D10.
+  notes: Originally noted as n-r-f; /f/ is not in the inventory and the legend conjugates neruv - corrected per D10.
 
 - lemma: b-d-r
   ipa: b-d-r
@@ -325,7 +325,7 @@
   root: kh-t-r
   status: provisional
   source: [base-notes]
-  notes: Official canon expresses "I hate you" as î naaq-veqash su ("I have no love for you"); this root may be redundant or stronger in force — undecided.
+  notes: Official canon expresses "I hate you" as î naaq-veqash su ("I have no love for you"); this root may be redundant or stronger in force - undecided.
 
 - lemma: w-t-
   ipa: ʋ-t

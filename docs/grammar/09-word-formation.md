@@ -4,7 +4,7 @@ Huntspeak prefers building new words from existing material over coining new roo
 
 ## Compounding
 
-Compounds put the **modifier first, head last** — a `shilaqar` (near-group) is a kind of group, a `wäwitul` (forest-piece) is a piece of forest:
+Compounds put the **modifier first, head last** - a `shilaqar` (near-group) is a kind of group, a `wäwitul` (forest-piece) is a piece of forest:
 
 | Compound | Parts | Meaning |
 | --- | --- | --- |
@@ -27,7 +27,7 @@ Compounds compress at the seam. The attested patterns:
 - **Final syllables of the modifier drop:** `shila` → `shi-`/`shid-`, `heidu` → `he-` (`heyädi` "yesterday"), `kharau` → `khara-` (`kharashiä`), `haqar` → `-aqar`/`-qar`
 - **naaq "no" → n(i)-** in `nilaqar` "outsider" (from `naaq-shilaqar`; provisional)
 
-These contractions are conventional, not automatic — new compounds should imitate existing ones and document their derivation.
+These contractions are conventional, not automatic - new compounds should imitate existing ones and document their derivation.
 
 ## Derivational suffixes
 
@@ -45,13 +45,13 @@ Related fixed words: `nainas` "without" (naaq + inas "with"), `naaq-iqe` "unless
 
 Two provisional self-names, matching the official description of Huntspeak's two registers:
 
-- **Khiädyasa** — "hunt-voice": the hunting signal register (clicks, whistles, calls)
-- **Shilyasa** — "tribe-voice" (near/tribe + voice): the full spoken language
+- **Khiädyasa** - "hunt-voice": the hunting signal register (clicks, whistles, calls)
+- **Shilyasa** - "tribe-voice" (near/tribe + voice): the full spoken language
 
 Both are compounds with `yasa` "sound, voice".
 
 ## What NOT to do
 
 - Don't coin a new root when derivation, compounding, a grammatical construction, or plain circumlocution covers the meaning.
-- Don't create a Huntspeak word for every English word — Huntspeak draws its own semantic boundaries (e.g. `qäsh` covers both "heart" and "love"; `mâish` covers "sleep" and "rest").
+- Don't create a Huntspeak word for every English word - Huntspeak draws its own semantic boundaries (e.g. `qäsh` covers both "heart" and "love"; `mâish` covers "sleep" and "rest").
 - Don't build words that collide with grammatical morphemes: initial `nai-` reads as a question word, `sha-`/`she-`/`shu-`/`shâ-` as the copula, `am-`/`akh-` as possessives.

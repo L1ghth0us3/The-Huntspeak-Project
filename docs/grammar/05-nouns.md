@@ -32,7 +32,7 @@ Only the numbers one through five are established:
 | qu | four |
 | ha | five |
 
-Counting above five is an open design question — see `development/gaps.md`. Ordering words exist for the ends of a sequence: `rab` "first", `nääq` "last".
+Counting above five is an open design question, see `development/gaps.md`. Ordering words exist for the ends of a sequence: `rab` "first", `nääq` "last".
 
 ## "One of the..."
 

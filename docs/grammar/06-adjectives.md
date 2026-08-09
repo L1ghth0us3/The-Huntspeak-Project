@@ -6,8 +6,8 @@ Adjectives stand **before** the noun they describe (`wakh radyävu` "a young chi
 
 Two suffixes:
 
-- **-du** — comparative ("more X, X-er")
-- **-vu** — superlative ("most X, X-est")
+- **-du** - comparative ("more X, X-er")
+- **-vu** - superlative ("most X, X-est")
 
 The standard of comparison is introduced by **tiau** "than":
 
@@ -27,7 +27,7 @@ Comparatives also work adverbially after the verb:
 
 Intensification by repetition is attested in the traditional tale:
 
-> **Sheq-du wa sheq-du…** — "colder and colder…"
+> **Sheq-du wa sheq-du…** - "colder and colder…"
 
 ## Making adjectives from nouns: -si
 

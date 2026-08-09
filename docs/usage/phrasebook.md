@@ -11,7 +11,7 @@ Ready-to-use Huntspeak for roleplay. Everything here is canon unless marked othe
 | **Shakh** | hi / bye (informal) |
 | **Qar mîdam** | Good morning |
 | **Qar nätum** | Good night / evening |
-| **Qar yâl** | "Good meeting" — well met |
+| **Qar yâl** | "Good meeting" - well met |
 
 ## Essentials
 
@@ -27,7 +27,7 @@ Ready-to-use Huntspeak for roleplay. Everything here is canon unless marked othe
 | **Ayar** | far / too far |
 | **Rasa** | quiet / still |
 | **Mâish** | rest / sleep |
-| **Yash!** | *hiss* — stop / watch it |
+| **Yash!** | *hiss* - stop / watch it |
 
 ## On the hunt
 
@@ -62,18 +62,18 @@ Ready-to-use Huntspeak for roleplay. Everything here is canon unless marked othe
 
 | Huntspeak | Force |
 | --- | --- |
-| **Sha…** | tch / damn — mild irritation |
-| **Khât!** | shit! / fuck! — strong |
+| **Sha…** | tch / damn - mild irritation |
+| **Khât!** | shit! / fuck! - strong |
 
-More curse words exist as provisional proposals — see `lexicon/expansions-provisional.yaml`.
+More curse words exist as provisional proposals, see `lexicon/expansions-provisional.yaml`.
 
 ## Small dialogue
 
-> — **Shîmakh! Naish su buvar?**
-> — Hello! How are you?
+> - **Shîmakh! Naish su buvar?**
+> - Hello! How are you?
 >
-> — **Qar. Su?**
-> — Good. You?
+> - **Qar. Su?**
+> - Good. You?
 >
-> — **Mâish… Râdakh, shidyävu.**
-> — (I need) rest… Farewell, friend.
+> - **Mâish… Râdakh, shidyävu.**
+> - (I need) rest… Farewell, friend.

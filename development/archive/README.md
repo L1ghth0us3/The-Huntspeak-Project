@@ -10,4 +10,4 @@ This directory holds **private, unpublished** working documents that the lexicon
 
 If you only have the public repository: those keys are **provenance labels**, not links to files you can open. The published record of what was imported is the lexicon entries themselves (`lexicon/`), plus decisions under `development/decisions/`. Official in-game material lives in the public [`canon/`](../../canon/) folder.
 
-Maintainers who hold the private files: keep them here for local cross-checking, never commit them, and never edit them in place as if they were canon — treat them as read-only sources.
+Maintainers who hold the private files: keep them here for local cross-checking, never commit them, and never edit them in place as if they were canon, treat them as read-only sources.

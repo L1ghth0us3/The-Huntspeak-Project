@@ -1,4 +1,4 @@
-# Decision Record — Initial Consolidation (2026-08-09)
+# Decision Record - Initial Consolidation (2026-08-09)
 
 Rulings by the project lead resolving the questions raised in the initial audit (`development/AUDIT.md`, §8 and Addendum A). Full evidence for each is in the audit.
 
@@ -11,9 +11,9 @@ Rulings by the project lead resolving the questions raised in the initial audit 
 | D3 | Spelling of /k/ | **⟨q⟩ everywhere**; bare ⟨k⟩ only in ⟨kh⟩. | qin, qik'et, iqe, q-d-s, qyul'sha, qit; stems qäsh/qar; pronunciation doc |
 | D4 | nayal | **"which" only**; legend use as "tribe" was an error. | lexicon `nayal`; revised legend |
 | D5 | Clause Linking chapter | **Canon**; iqe relabeled irrealis particle. | grammar ch. 10; lexicon naru/narudi/qesha/tarem/iqe |
-| D6 | Cheatsheet expansions | **Provisional**, except `sha` "damn" and `khât` "shit/fuck" — accepted. | lexicon `expansions-provisional.yaml`, `phrases.yaml` |
+| D6 | Cheatsheet expansions | **Provisional**, except `sha` "damn" and `khât` "shit/fuck" - accepted. | lexicon `expansions-provisional.yaml`, `phrases.yaml` |
 | D7 | Strong: yir or tir? | **yir**; legend token corrected. | lexicon `yir`; revised legend |
-| D8 | Causative vowel: da-/du- | **da-** — prefix verbs never carry subject vowels. | grammar ch. 4; examples |
+| D8 | Causative vowel: da-/du- | **da-** - prefix verbs never carry subject vowels. | grammar ch. 4; examples |
 | D9 | To feel: b-v-r or b-v-sh? | **b-v-r**; greeting is `Naish su buvar?`. | lexicon `b-v-r`; phrasebook |
 | D10 | Presumed-typo list | **All confirmed as errors; fixed.** Tense text "Future→Past recent/long"; `Tu`→`î`; vîdab-passive pair marked erroneous; n-r-f→n-r-v; yething→yethin; singular tu/amtu→su/amsu. | grammar docs; lexicon; examples |
 
@@ -23,7 +23,7 @@ Additional fix under D10's authority: the question example `libe` ("Naina tu kha
 
 ### D11. Plural present tense: -a- or -e-? *(open)*
 
-Official canon's pronoun paradigm writes `Tɪ vɪdeb / Tu vudeb / Te vedeb`, glossed as present, for exactly the three plural pronouns — contradicting its own rule (a = present) and making "we write" identical to "I wrote". Since the canon file always holds true, this needs an explicit ruling: systematic typo (recommended — the repo currently follows a = present for all persons), or a real plural marker. Related: canon's fixed phrase `î veqash su` also carries e where a is expected.
+Official canon's pronoun paradigm writes `Tɪ vɪdeb / Tu vudeb / Te vedeb`, glossed as present, for exactly the three plural pronouns - contradicting its own rule (a = present) and making "we write" identical to "I wrote". Since the canon file always holds true, this needs an explicit ruling: systematic typo (recommended, the repo currently follows a = present for all persons), or a real plural marker. Related: canon's fixed phrase `î veqash su` also carries e where a is expected.
 
 ### D12. Spelling of the strong curse: khât or khät? *(open, minor)*
 

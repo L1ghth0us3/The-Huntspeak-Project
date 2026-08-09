@@ -1,6 +1,6 @@
-# The Tale of Our Ancestors — Revised Canonical Text
+# The Tale of Our Ancestors - Revised Canonical Text
 
-The original (`original.md`) with corrections applied per project-lead decisions D1, D3, D4, D7, and D10 (2026-08-09). Every change is listed below the text. Constructions that remain unexplained by documented grammar are **not** rewritten — they are flagged in `notes.md`.
+The original (`original.md`) with corrections applied per project-lead decisions D1, D3, D4, D7, and D10 (2026-08-09). Every change is listed below the text. Constructions that remain unexplained by documented grammar are **not** rewritten - they are flagged in `notes.md`.
 
 ## Huntspeak
 
@@ -12,9 +12,9 @@ The original (`original.md`) with corrections applied per project-lead decisions
 
 > The tale of our ancestors.
 >
-> Long ago our ancestors lived in small, queen-less groups. They fought the cold, thirst and hunger every day, but we were strong already. We survived and helped the tribe. But the many moons became cold — colder and colder with every new moon. The earth and rivers were frozen over; the animals were hiding from the deadly cold. We had nothing to harvest, nothing to hunt. One of the many mothers had the name Zaiya. She feared for her tribe, which was slowly starving and freezing. One cold but clear-skied night she looked up at the full (holy) moon and prayed to Menphina. Menphina spoke to Zaiya in her mind and told her: "Trust the moon, and make a journey with your tribe."
+> Long ago our ancestors lived in small, queen-less groups. They fought the cold, thirst and hunger every day, but we were strong already. We survived and helped the tribe. But the many moons became cold - colder and colder with every new moon. The earth and rivers were frozen over; the animals were hiding from the deadly cold. We had nothing to harvest, nothing to hunt. One of the many mothers had the name Zaiya. She feared for her tribe, which was slowly starving and freezing. One cold but clear-skied night she looked up at the full (holy) moon and prayed to Menphina. Menphina spoke to Zaiya in her mind and told her: "Trust the moon, and make a journey with your tribe."
 
-*(The remainder of the English tale is untranslated — an open task.)*
+*(The remainder of the English tale is untranslated, an open task.)*
 
 ## Changes from the original
 

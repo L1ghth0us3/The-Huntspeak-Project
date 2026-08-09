@@ -2,7 +2,7 @@
 
 Meaningful changes to the Huntspeak language itself. Repository housekeeping is not recorded here.
 
-## 2026-08-09 — Initial consolidation
+## 2026-08-09 - Initial consolidation
 
 Based on the repository audit (`development/AUDIT.md`) and project-lead decisions D1–D10 (`development/decisions/2026-08-09-initial-decisions.md`):
 
@@ -14,7 +14,7 @@ Based on the repository audit (`development/AUDIT.md`) and project-lead decision
 
 ### Changed
 - "Food" is `qäru`; `evum` deprecated (D2).
-- `iqe` relabeled from "hypothetical tense" to **irrealis particle** — usage unchanged (D5).
+- `iqe` relabeled from "hypothetical tense" to **irrealis particle** - usage unchanged (D5).
 - Orthography standardized on ⟨q⟩ for /k/ (D3): `kin→qin` (in compounds), `kik'et→qik'et`, `ike→iqe`, `k-d-s→q-d-s`, `kyul'sha→qyul'sha`; stem spellings fixed to `qäsh`, `qar`.
 - Root of "to starve" corrected to `n-r-v` (was `n-r-f`, containing a sound outside the inventory) (D10).
 - "Nothing" standardized as `yethin` (variant `yething` deprecated) (D10).

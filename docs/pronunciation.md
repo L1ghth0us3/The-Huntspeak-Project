@@ -9,7 +9,7 @@ Huntspeak is written with the Latin alphabet plus three accented vowels (â, ä,
 | b | b | *bat* |
 | d | d | *dog* |
 | t | t | *top* |
-| q | k | *kit* — /k/ is always written ⟨q⟩ in Huntspeak words (`qar`, `qî`, `iqe`) |
+| q | k | *kit* - /k/ is always written ⟨q⟩ in Huntspeak words (`qar`, `qî`, `iqe`) |
 | kh | χ | throaty, guttural sound; like clearing the throat (German *Bach*, but further back) |
 | h | h | *hat* |
 | s | s | *sun* |
@@ -51,9 +51,9 @@ The official material defines the vowels with English example words; the accente
 
 ## The apostrophe
 
-An apostrophe marks a **break between syllables** — a tiny pause, as between the words of "uh-oh":
+An apostrophe marks a **break between syllables** - a tiny pause, as between the words of "uh-oh":
 
-- `i'saae` "into" — [i . saae]
+- `i'saae` "into" - [i . saae]
 - `rav'i` "thirst", `qik'et` "hunger", `q'rysh` "frozen"
 - the imperative ending `-'qe`: [. ke]
 

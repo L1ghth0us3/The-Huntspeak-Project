@@ -43,8 +43,8 @@ Positionals stand before the noun phrase they locate, like English prepositions.
 | isea | left ("to my left") |
 | yama | right ("to my right") |
 
-> **Î vîset däl tye yat wäwi.** — "I saw many animals in the forest."
-> **…se vesut asu ada mithra shiä…** — "…she looked up at the holy moon…" (*ada* "to/at" relates one thing to another)
+> **Î vîset däl tye yat wäwi.** - "I saw many animals in the forest."
+> **…se vesut asu ada mithra shiä…** - "…she looked up at the holy moon…" (*ada* "to/at" relates one thing to another)
 
 Note `yat` "in" extends to abstract targets: `muvat yat shiä` "trust in the moon".
 
@@ -63,7 +63,7 @@ Note `yat` "in" extends to abstract targets: `muvat yat shiä` "trust in the moo
 | nanaqa | at the same time |
 | shrala'i | long ago |
 
-`eshu`, `avikh`, `tarem`, and `udil` also link whole clauses — see chapter 10. The nuance between `eshu` "while", `ashad` "during", and `nanaqa` "at the same time" is not yet formally defined; attested use has `eshu`/`ashad` before phrases or clauses and `nanaqa` standing alone.
+`eshu`, `avikh`, `tarem`, and `udil` also link whole clauses, see chapter 10. The nuance between `eshu` "while", `ashad` "during", and `nanaqa` "at the same time" is not yet formally defined; attested use has `eshu`/`ashad` before phrases or clauses and `nanaqa` standing alone.
 
 ## Days and nights
 
@@ -75,5 +75,5 @@ Compounds with `ädi` "day" and `shiä` "moon" cover the calendar basics (chapte
 | vayädi | next-to-day | tomorrow |
 | heyädi | behind-day | yesterday |
 | kharashiä | this-moon | tonight |
-| mîdam | — | morning (sunrise to noon) |
-| nätum | — | night (dusk to dawn) |
+| mîdam | - | morning (sunrise to noon) |
+| nätum | - | night (dusk to dawn) |

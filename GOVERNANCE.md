@@ -4,11 +4,11 @@
 
 Huntspeak has a hierarchy of authority. When sources disagree, the higher level wins:
 
-1. **Official game material** — the in-game/official description of Huntspeak (preserved verbatim as `canon/Huntspeak-Official-Canon`). This always holds true. Everything else in the project is an expansion of it.
-2. **Project-lead rulings** — recorded in `development/decisions/`. The project lead is the final authority on everything the game does not settle.
-3. **Canon repository material** — the documented language: `docs/`, `lexicon/` entries with `status: canon`, and canonical texts.
-4. **Provisional material** — developed and usable, but subject to change.
-5. **Proposals** — not part of the language.
+1. **Official game material** - the in-game/official description of Huntspeak (preserved verbatim as `canon/Huntspeak-Official-Canon`). This always holds true. Everything else in the project is an expansion of it.
+2. **Project-lead rulings** - recorded in `development/decisions/`. The project lead is the final authority on everything the game does not settle.
+3. **Canon repository material** - the documented language: `docs/`, `lexicon/` entries with `status: canon`, and canonical texts.
+4. **Provisional material** - developed and usable, but subject to change.
+5. **Proposals** - not part of the language.
 
 A contribution is **never** canon merely because it has been committed, discussed, or used in roleplay.
 

@@ -17,18 +17,18 @@ A handful of the most basic verbs are irregular. Instead of a consonantal skelet
 Two rules (official pattern + decision D8):
 
 1. **Prefix verbs never carry a subject vowel.** Only the pronoun tells you who acts.
-2. **They do carry the tense vowel** — the same V₂ system as chapter 3. For `sh-d-` "become", *both* vowels mark the tense: `shudu-` = became (past long).
+2. **They do carry the tense vowel** - the same V₂ system as chapter 3. For `sh-d-` "become", *both* vowels mark the tense: `shudu-` = became (past long).
 
-> **Tî vayâl.** — "We have a meeting."
-> **Tî veyâl.** — "We had a meeting."
-> **Tî vâyâl.** — "We will have a meeting."
+> **Tî vayâl.** - "We have a meeting."
+> **Tî veyâl.** - "We had a meeting."
+> **Tî vâyâl.** - "We will have a meeting."
 
 The copula `sh-` is what makes adjectives and nouns into predicates:
 
-> **Su amî qar-vu sha-shidyävu.** — "You are my best friend." (*sha-* = "be", present)
-> **Naish amsu she-mâish?** — "How was your sleep?" (*she-* = "be", past recent)
+> **Su amî qar-vu sha-shidyävu.** - "You are my best friend." (*sha-* = "be", present)
+> **Naish amsu she-mâish?** - "How was your sleep?" (*she-* = "be", past recent)
 
-*(Writing convention: prefix verbs are usually joined with a hyphen when attached to a full phrase — `sha-shidyävu` — and written solid in single fused words — `shaqin`, `vaqäsh`. This follows the sources' practice.)*
+*(Writing convention: prefix verbs are usually joined with a hyphen when attached to a full phrase, `sha-shidyävu`, and written solid in single fused words - `shaqin`, `vaqäsh`. This follows the sources' practice.)*
 
 ## Negation: naaq-
 
@@ -37,20 +37,20 @@ The copula `sh-` is what makes adjectives and nouns into predicates:
 - **On nouns**, it is privative ("-less"): `naaq-qin haqar` "queen-less groups".
 - **On verbs**, it negates the action. This is official canon:
 
-  > **Î veqash su.** — "I love you." (literally "I have love (for) you")
-  > **Î naaq-veqash su.** — "I hate you." (literally "I have no love (for) you")
+  > **Î veqash su.** - "I love you." (literally "I have love (for) you")
+  > **Î naaq-veqash su.** - "I hate you." (literally "I have no love (for) you")
 
 - **On the irrealis particle**: `naaq-iqe` = "unless" (chapter 10).
 
-*(`naaq-` on a plain root verb — "I do not eat" — has no attested example yet; the canon pattern suggests `î naaq-lîba`, but treat that as provisional. See `development/gaps.md`.)*
+*(`naaq-` on a plain root verb - "I do not eat" - has no attested example yet; the canon pattern suggests `î naaq-lîba`, but treat that as provisional. See `development/gaps.md`.)*
 
 ## The imperative: -'qe
 
 Commands attach **-'qe** (pronounced with a small pause: [.ke]) to the verb:
 
-> **sevu'qe** — "said (commandingly), told" (attested in the traditional tale)
+> **sevu'qe** - "said (commandingly), told" (attested in the traditional tale)
 
-This is the least-attested corner of the verb system — there is no plain example like "Eat!" in the sources yet.
+This is the least-attested corner of the verb system - there is no plain example like "Eat!" in the sources yet.
 
 ## Causatives and multiple verbs
 

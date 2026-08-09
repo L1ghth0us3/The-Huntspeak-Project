@@ -68,7 +68,7 @@ Order: **Question word + Subject + (Object) + Verb.**
 
 ## Numbers
 
-u *1* · bi *2* · ta *3* · qu *4* · ha *5* — higher numbers: open gap. Ordinal-edge words: rab *first*, nääq *last*.
+u *1* · bi *2* · ta *3* · qu *4* · ha *5* - higher numbers: open gap. Ordinal-edge words: rab *first*, nääq *last*.
 
 ## Clause connectives
 

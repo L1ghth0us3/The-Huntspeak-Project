@@ -26,8 +26,8 @@ Rules established by the official material and the core documentation:
   > I young have-child
   > "I have a young child."
 
-- The subject can be left out when it is obvious — most often third person:
+- The subject can be left out when it is obvious - most often third person:
 
-  > **Tye nenad.** — "The animal moves." (the pronoun *se* "it" is implied inside the verb; see chapter 3)
+  > **Tye nenad.** - "The animal moves." (the pronoun *se* "it" is implied inside the verb; see chapter 3)
 
-Questions rearrange this order (chapter 7), and linked clauses follow the patterns of chapter 10. Everything else — who acts, and when — is carried by the verb itself, which is the subject of chapters 3 and 4.
+Questions rearrange this order (chapter 7), and linked clauses follow the patterns of chapter 10. Everything else, who acts, and when, is carried by the verb itself, which is the subject of chapters 3 and 4.
