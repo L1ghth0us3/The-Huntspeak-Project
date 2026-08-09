@@ -1,0 +1,106 @@
+# Greetings, fixed phrases, and interjections. Format: lexicon/SCHEMA.md
+
+# ---- Official canon greetings and phrases --------------------------------------
+
+- lemma: Shîmakh
+  ipa: ʃɪmaχ
+  pos: interjection
+  gloss: Hello!
+  status: canon
+  source: [official-canon]
+
+- lemma: Râdakh
+  ipa: rʌdaχ
+  pos: interjection
+  gloss: Farewell!
+  status: canon
+  source: [official-canon]
+
+- lemma: Shakh
+  ipa: ʃaχ
+  pos: interjection
+  gloss: hi / bye (informal)
+  definition: Informal hello or goodbye.
+  status: canon
+  source: [official-canon]
+
+- lemma: Qar mîdam
+  ipa: kɑr mɪdɑm
+  pos: phrase
+  gloss: Good morning
+  parts: [qar, mîdam]
+  status: canon
+  source: [official-canon]
+
+- lemma: Qar nätum
+  ipa: kɑr nætum
+  pos: phrase
+  gloss: Good night / Good evening
+  parts: [qar, nätum]
+  status: canon
+  source: [official-canon]
+
+- lemma: Qar yâl
+  ipa: kɑr jʌl
+  pos: phrase
+  gloss: '"Good meeting" — well met'
+  parts: [qar, yâl]
+  status: canon
+  source: [official-canon]
+
+- lemma: î veqash su
+  ipa: ɪ vekaʃ su
+  pos: phrase
+  gloss: I love you
+  definition: Literally "I have love (for) you".
+  parts: [î, v-q-sh, su]
+  status: canon
+  source: [official-canon]
+  notes: >-
+    Official-canon wording. The e vowel does not match the documented present
+    tense in a; treated as a fixed expression pending open question D11
+    (development/decisions/).
+
+- lemma: î naaq-veqash su
+  ipa: ɪ nɑ:k.vekaʃ su
+  pos: phrase
+  gloss: I hate you
+  definition: Literally "I have no love (for) you". The canon evidence for verbal negation with naaq-.
+  parts: [î, naaq, v-q-sh, su]
+  status: canon
+  source: [official-canon]
+
+# ---- Common questions (from the established examples, corrections applied) ------
+
+- lemma: Naish su buvar?
+  ipa: naiʃ su buvar
+  pos: phrase
+  gloss: How are you doing? / How do you feel?
+  parts: [naish, su, b-v-r]
+  status: canon
+  source: [base-notes, decision:D9, decision:D10]
+  notes: Original note read "Naish tu buvash?"; corrected per D9 (root b-v-r) and D10 (singular su).
+
+# ---- Accepted interjections (decision D6) ----------------------------------------
+
+- lemma: sha
+  ipa: ʃa
+  pos: interjection
+  gloss: damn (mild)
+  definition: Mild irritation — "tch / damn".
+  status: canon
+  source: [cheatsheet, decision:D6]
+  notes: Homophonous with the present-tense copula prefix sha-; context disambiguates.
+
+- lemma: khât
+  ipa: χʌt
+  pos: interjection
+  gloss: shit! / fuck! (strong)
+  definition: Strong explosive curse.
+  status: canon
+  variants: [khät]
+  source: [cheatsheet, decision:D6]
+  notes: >-
+    The cheatsheet spelled it khät; the project-lead ruling wrote khât, which
+    is adopted here. Plausibly derived from the root q-kh-t. Owner
+    confirmation of the vowel is requested (see CHANGELOG).

@@ -1,0 +1,452 @@
+# Core function words: pronouns, particles, conjunctions, interrogatives,
+# numbers, affixes, prefix verbs. Format: lexicon/SCHEMA.md
+
+# ---- Personal pronouns -----------------------------------------------------
+
+- lemma: î
+  ipa: ɪ
+  pos: pronoun
+  gloss: I, me
+  definition: The one who is speaking or writing.
+  status: canon
+  source: [official-canon, base-dict]
+
+- lemma: su
+  ipa: su
+  pos: pronoun
+  gloss: you (singular)
+  status: canon
+  source: [official-canon, base-dict]
+  notes: One person only; several people = tu (decision D10).
+
+- lemma: se
+  ipa: se
+  pos: pronoun
+  gloss: he, she, it
+  definition: Third person singular; no gender distinction.
+  status: canon
+  source: [official-canon, base-dict]
+
+- lemma: tî
+  ipa: tɪ
+  pos: pronoun
+  gloss: we, us
+  status: canon
+  source: [official-canon, base-dict]
+
+- lemma: tu
+  ipa: tu
+  pos: pronoun
+  gloss: you (plural)
+  status: canon
+  source: [official-canon, base-dict]
+
+- lemma: te
+  ipa: te
+  pos: pronoun
+  gloss: they
+  status: canon
+  source: [official-canon, base-dict]
+
+# ---- Possessive prefixes ---------------------------------------------------
+
+- lemma: am-
+  ipa: ɑm
+  pos: affix
+  gloss: possessive prefix, singular owner
+  definition: "Prefixed to the owner's pronoun: amî my, amsu your, amse his/her/its."
+  status: canon
+  source: [base-dict]
+
+- lemma: akh-
+  ipa: ɑχ
+  pos: affix
+  gloss: possessive prefix, plural owner
+  definition: "Prefixed to the owner's pronoun: akhtî our; akhtu your (pl.) and akhte their follow the pattern but are unattested."
+  status: canon
+  source: [base-dict]
+
+# ---- Demonstratives --------------------------------------------------------
+
+- lemma: kharau
+  ipa: χarau
+  pos: pronoun
+  gloss: this
+  status: canon
+  source: [base-dict, legend]
+  notes: The legend once uses kharau where English has "the" (kharau sheq, "the cold"); that article-like use is provisional.
+
+- lemma: kharae
+  ipa: χarae
+  pos: pronoun
+  gloss: that
+  status: canon
+  source: [base-dict, base-notes]
+
+# ---- Answer words and negation ---------------------------------------------
+
+- lemma: qî
+  ipa: kɪ
+  pos: particle
+  gloss: yes
+  definition: Affirmative reply; also expresses assent or agreement.
+  status: canon
+  source: [official-canon, base-dict]
+
+- lemma: naaq
+  ipa: nɑ:k
+  pos: particle
+  gloss: no; negator
+  definition: >-
+    Negative reply or decision. As a prefix, negates: privative on nouns
+    (naaq-qin "queen-less"), negation on verbs (naaq-veqash "have no love for",
+    official canon), and naaq-iqe "unless". With a following adjective it
+    implies the opposite positive statement.
+  status: canon
+  source: [official-canon, base-dict, legend]
+
+# ---- Conjunctions and clause connectives ------------------------------------
+
+- lemma: wa
+  ipa: ʋa
+  pos: conjunction
+  gloss: and
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: ara
+  ipa: ara
+  pos: conjunction
+  gloss: but
+  definition: Joins two contrasting statements of equal weight.
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: ura
+  ipa: ura
+  pos: conjunction
+  gloss: or
+  status: canon
+  source: [base-dict]
+
+- lemma: naru
+  ipa: naru
+  pos: conjunction
+  gloss: because
+  definition: Introduces the reason or cause of an event.
+  status: canon
+  source: [enhanced, decision:D5]
+
+- lemma: narudi
+  ipa: narudi
+  pos: conjunction
+  gloss: therefore, so
+  definition: Introduces a result or conclusion. Historically naru + udil, now a separate word.
+  parts: [naru, udil]
+  status: canon
+  source: [enhanced, decision:D5]
+
+- lemma: qesha
+  ipa: keʃa
+  pos: conjunction
+  gloss: although, even though
+  definition: Introduces a circumstance that might be expected to prevent the main event.
+  status: canon
+  source: [enhanced, decision:D5]
+
+- lemma: iqe
+  ipa: ike
+  pos: particle
+  gloss: irrealis particle (if, might, would)
+  definition: >-
+    Marks an event as imagined, possible, conditional, or proposed. Not a
+    tense: stands directly before the verb, which keeps its own tense/aspect.
+  status: canon
+  variants: [ike]
+  source: [base-grammar, enhanced, decision:D5]
+  notes: Formerly documented as the "hypothetical tense"; relabeled per D5.
+
+- lemma: naaq-iqe
+  ipa: nɑ:k.ike
+  pos: particle
+  gloss: unless, if not
+  definition: Fixed compound marking a negative condition; written with the hyphen.
+  parts: [naaq, iqe]
+  status: canon
+  source: [enhanced, decision:D5]
+
+- lemma: wey
+  ipa: ʋej
+  pos: preposition
+  gloss: for; so that
+  definition: Indicates purpose. Before a clause, "so that / in order to".
+  status: canon
+  source: [base-dict, enhanced]
+
+- lemma: udil
+  ipa: udil
+  pos: conjunction
+  gloss: then, next
+  definition: Introduces the next event in a sequence (chronological, not causal).
+  status: canon
+  source: [base-notes, enhanced, decision:D5]
+
+- lemma: valir
+  ipa: valir
+  pos: preposition
+  gloss: of, related to
+  definition: >-
+    Relates one thing to another (partitive "one of the many mothers": u valir
+    däl qäin). As a suffix, derives related-to adjectives (tyevalir
+    "animalistic").
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: ada
+  ipa: ada
+  pos: preposition
+  gloss: to, at (comparator)
+  definition: Relates something to something else ("to be something to something"); attested with verbs of directed attention (vesut asu ada ... "looked up at ...").
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: tiau
+  ipa: tiau
+  pos: particle
+  gloss: than
+  definition: Marks the standard of comparison after a comparative in -du.
+  status: canon
+  source: [base-notes, base-grammar]
+
+- lemma: inas
+  ipa: inas
+  pos: preposition
+  gloss: with
+  status: canon
+  source: [base-notes, legend]
+
+- lemma: nainas
+  ipa: nainas
+  pos: preposition
+  gloss: without
+  parts: [naaq, inas]
+  status: provisional
+  source: [base-notes]
+
+- lemma: dahv
+  ipa: dahv
+  pos: particle
+  gloss: also
+  status: provisional
+  source: [base-notes]
+
+- lemma: "yes"
+  ipa: jes
+  pos: adjective
+  gloss: same
+  status: canon
+  source: [base-dict]
+
+- lemma: shurin
+  ipa: ʃurin
+  pos: adverb
+  gloss: already; a long-standing truth
+  status: canon
+  source: [base-notes, legend]
+
+- lemma: shrala'i
+  ipa: ʃrala.i
+  pos: adverb
+  gloss: long ago
+  status: canon
+  source: [base-notes, legend]
+
+# ---- Interrogatives ----------------------------------------------------------
+
+- lemma: naiqa
+  ipa: naika
+  pos: interrogative
+  gloss: what
+  status: canon
+  source: [base-dict]
+
+- lemma: nayal
+  ipa: najal
+  pos: interrogative
+  gloss: which
+  status: canon
+  source: [base-notes, decision:D4]
+  notes: The legend once used nayal as "tribe"; ruled an error (D4), corrected to shilaqar.
+
+- lemma: naire
+  ipa: naire
+  pos: interrogative
+  gloss: when
+  status: canon
+  source: [base-dict]
+
+- lemma: naido
+  ipa: naido
+  pos: interrogative
+  gloss: where
+  status: canon
+  source: [base-dict]
+
+- lemma: naisa
+  ipa: naisa
+  pos: interrogative
+  gloss: who
+  status: canon
+  source: [base-dict]
+
+- lemma: naina
+  ipa: naina
+  pos: interrogative
+  gloss: why
+  status: canon
+  source: [base-dict]
+
+- lemma: naish
+  ipa: naiʃ
+  pos: interrogative
+  gloss: how
+  status: canon
+  source: [base-dict]
+
+- lemma: naish däl
+  ipa: naiʃ dæl
+  pos: interrogative
+  gloss: how many, how much
+  parts: [naish, däl]
+  status: canon
+  source: [base-dict]
+
+# ---- Numbers -----------------------------------------------------------------
+
+- lemma: u
+  ipa: u
+  pos: numeral
+  gloss: one
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: bi
+  ipa: bi
+  pos: numeral
+  gloss: two
+  status: canon
+  source: [base-dict]
+
+- lemma: ta
+  ipa: ta
+  pos: numeral
+  gloss: three
+  status: canon
+  source: [base-dict]
+
+- lemma: qu
+  ipa: ku
+  pos: numeral
+  gloss: four
+  status: canon
+  source: [base-dict]
+
+- lemma: ha
+  ipa: ha
+  pos: numeral
+  gloss: five
+  status: canon
+  source: [base-dict]
+  notes: Numbers above five are an open gap (development/gaps.md).
+
+# ---- Grammatical affixes -------------------------------------------------------
+
+- lemma: -du
+  pos: affix
+  gloss: comparative suffix ("-er, more")
+  status: canon
+  source: [base-dict]
+
+- lemma: -vu
+  pos: affix
+  gloss: superlative suffix ("-est, most")
+  status: canon
+  source: [base-dict]
+
+- lemma: -'qe
+  ipa: .ke
+  pos: affix
+  gloss: imperative suffix
+  definition: Attaches to the end of a verb to force the imperative.
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: -ba
+  ipa: ba
+  pos: affix
+  gloss: auxiliary-verb suffix
+  definition: Attached to the auxiliary verb that supports a main verb (qîrad-ba lîba ... "want to eat ...").
+  status: canon
+  source: [base-dict, base-grammar]
+
+- lemma: -si
+  ipa: si
+  pos: affix
+  gloss: adjectivizer ("-ly, -y")
+  definition: Derives adjectives from nouns (ikhel-si "deadly"). Legend also uses it adverbially on an adjective (budai-si "slowly") — that use is provisional.
+  status: canon
+  source: [base-grammar, legend]
+
+# ---- Prefix verbs (irregular) ---------------------------------------------------
+
+- lemma: v-
+  pos: prefix-verb
+  gloss: to have, to own
+  definition: Prefixes to a noun (vaqäsh "to have love"). Carries the tense vowel only, never a subject vowel (decision D8).
+  status: canon
+  source: [base-dict, official-canon]
+
+- lemma: sh-
+  ipa: ʃ
+  pos: prefix-verb
+  gloss: to be
+  definition: Copula; prefixes to adjectives or nouns (shaqin "to be queen", sha-shidyävu "is a friend").
+  status: canon
+  source: [base-dict]
+
+- lemma: kh-
+  ipa: χ
+  pos: prefix-verb
+  gloss: to hunt
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: r-
+  ipa: r
+  pos: prefix-verb
+  gloss: to do, to make
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: d-
+  ipa: d
+  pos: prefix-verb
+  gloss: to cause
+  definition: Builds causatives (danenad "cause to move"). Tense vowel only (decision D8).
+  status: canon
+  source: [base-dict, base-grammar]
+
+- lemma: s-
+  ipa: s
+  pos: prefix-verb
+  gloss: can, to be able to
+  status: canon
+  source: [base-dict]
+
+- lemma: sh-d-
+  ipa: ʃ-d
+  pos: prefix-verb
+  gloss: to become
+  definition: Both vowel slots carry the tense (shudu- "became", past long).
+  status: canon
+  source: [base-dict, legend]

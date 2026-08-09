@@ -1,0 +1,291 @@
+# Adjectives and quantifiers. Format: lexicon/SCHEMA.md
+
+- lemma: qar
+  ipa: kɑr
+  pos: adjective
+  gloss: good
+  definition: Of a favorable character or tendency (quality; moral goodness is qäsh).
+  status: canon
+  variants: [qaar]
+  source: [official-canon, base-dict]
+
+- lemma: tey
+  ipa: tej
+  pos: adjective
+  gloss: bad
+  definition: Failing to reach an acceptable standard.
+  status: canon
+  source: [official-canon, base-dict]
+
+- lemma: wakh
+  ipa: ʋaχ
+  pos: adjective
+  gloss: young
+  status: canon
+  source: [base-dict, base-notes]
+
+- lemma: hâsh
+  ipa: hʌʃ
+  pos: adjective
+  gloss: old
+  status: canon
+  source: [base-dict]
+
+- lemma: rab
+  ipa: rab
+  pos: adjective
+  gloss: first
+  status: canon
+  source: [base-dict]
+
+- lemma: nääq
+  ipa: næ:k
+  pos: adjective
+  gloss: last
+  status: canon
+  source: [base-dict]
+
+- lemma: shem
+  ipa: ʃem
+  pos: adjective
+  gloss: long
+  status: canon
+  source: [base-dict]
+
+- lemma: khaq
+  ipa: χak
+  pos: adjective
+  gloss: short
+  status: canon
+  source: [base-dict]
+
+- lemma: turam
+  ipa: turam
+  pos: adjective
+  gloss: big
+  status: canon
+  source: [base-dict, enhanced]
+
+- lemma: rad
+  ipa: rad
+  pos: adjective
+  gloss: small
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: tusa
+  ipa: tusa
+  pos: adjective
+  gloss: loud
+  status: canon
+  source: [base-dict]
+
+- lemma: rasa
+  ipa: rasa
+  pos: adjective
+  gloss: quiet, still
+  status: canon
+  source: [base-dict, cheatsheet]
+
+- lemma: led
+  ipa: led
+  pos: adjective
+  gloss: light, bright
+  status: canon
+  source: [base-dict, enhanced]
+
+- lemma: sil
+  ipa: sil
+  pos: adjective
+  gloss: dark
+  status: canon
+  source: [base-dict, base-grammar]
+
+- lemma: dalväi
+  ipa: dalvæi
+  pos: adjective
+  gloss: smart
+  status: canon
+  source: [base-dict]
+
+- lemma: helval
+  ipa: helval
+  pos: adjective
+  gloss: dumb
+  status: canon
+  source: [base-dict]
+
+- lemma: däl
+  ipa: dæl
+  pos: adjective
+  gloss: many, a lot
+  status: canon
+  source: [base-dict, base-grammar, legend]
+
+- lemma: qei
+  ipa: kei
+  pos: adjective
+  gloss: few
+  status: canon
+  source: [base-dict]
+
+- lemma: yad
+  ipa: jad
+  pos: adjective
+  gloss: all
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: yaqa
+  ipa: jaka
+  pos: adjective
+  gloss: every
+  status: canon
+  source: [base-notes, legend]
+
+- lemma: wemä
+  ipa: ʋemæ
+  pos: adjective
+  gloss: straight
+  status: canon
+  source: [base-dict]
+
+# ---- From the working notes (legend/example-attested = canon; otherwise provisional) ----
+
+- lemma: sheq
+  ipa: ʃek
+  pos: adjective
+  gloss: cold
+  status: canon
+  source: [base-notes, legend, decision:D1]
+
+- lemma: hesh
+  ipa: heʃ
+  pos: adjective
+  gloss: hot
+  status: provisional
+  source: [base-notes]
+
+- lemma: yir
+  ipa: jir
+  pos: adjective
+  gloss: strong
+  status: canon
+  variants: [tir]
+  source: [base-notes, legend, decision:D7]
+  notes: The legend's shua-tir was ruled a typo for shua-yir (D7).
+
+- lemma: veth
+  ipa: veθ
+  pos: adjective
+  gloss: weak
+  status: provisional
+  source: [base-notes]
+
+- lemma: shai
+  ipa: ʃai
+  pos: adjective
+  gloss: fast
+  status: canon
+  source: [base-notes, base-grammar]
+
+- lemma: budai
+  ipa: budai
+  pos: adjective
+  gloss: slow
+  status: canon
+  source: [base-notes, legend]
+
+- lemma: shiqar
+  ipa: ʃikar
+  pos: adjective
+  gloss: new
+  status: canon
+  source: [base-notes, legend]
+  notes: Keep distinct from shiqâ "wind" and shilaqar "tribe".
+
+- lemma: mithra
+  ipa: miθra
+  pos: adjective
+  gloss: holy
+  status: canon
+  source: [base-notes, legend]
+
+- lemma: q'rysh
+  ipa: k.riʃ
+  pos: adjective
+  gloss: frozen
+  root: q-r-sh
+  status: canon
+  source: [base-notes, legend]
+  notes: Participle-like form of q-r-sh "to freeze"; spelling uses y as a vowel — flagged in development/gaps.md.
+
+- lemma: yakh
+  ipa: jaχ
+  pos: adjective
+  gloss: excited
+  status: provisional
+  source: [base-notes]
+
+- lemma: alâtu
+  ipa: alʌtu
+  pos: adjective
+  gloss: bored
+  status: provisional
+  source: [base-notes]
+
+- lemma: eliva
+  ipa: eliva
+  pos: adjective
+  gloss: happy
+  status: provisional
+  source: [base-notes]
+
+- lemma: deeyu
+  ipa: de:ju
+  pos: adjective
+  gloss: sad
+  status: provisional
+  source: [base-notes]
+
+- lemma: qyâ
+  ipa: kjʌ
+  pos: adjective
+  gloss: sour
+  status: provisional
+  source: [base-notes]
+
+- lemma: shyâ
+  ipa: ʃjʌ
+  pos: adjective
+  gloss: bitter
+  status: provisional
+  source: [base-notes]
+
+- lemma: ashyas
+  ipa: aʃjas
+  pos: adjective
+  gloss: sweet
+  status: provisional
+  source: [base-notes]
+
+- lemma: sadya
+  ipa: sadja
+  pos: adjective
+  gloss: salty
+  status: provisional
+  source: [base-notes]
+
+- lemma: bihyâ
+  ipa: bihjʌ
+  pos: adjective
+  gloss: umami, savory
+  status: provisional
+  source: [base-notes]
+
+- lemma: qilia
+  ipa: kilia
+  pos: adjective
+  gloss: cute
+  status: provisional
+  source: [base-notes]

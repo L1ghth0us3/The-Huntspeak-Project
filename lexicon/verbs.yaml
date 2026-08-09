@@ -1,0 +1,353 @@
+# Verb roots. Prefix verbs (v-, sh-, kh-, r-, d-, s-, sh-d-) are in core.yaml.
+# Conjugation: docs/grammar/03-verbs.md. Format: lexicon/SCHEMA.md
+
+- lemma: v-q-sh
+  ipa: v-k-ʃ
+  pos: verb-root
+  gloss: to love, to have love
+  root: v-q-sh
+  status: canon
+  source: [official-canon, base-dict]
+  notes: >-
+    Listed as a root in official canon; transparently related to v- "have" +
+    qäsh "love". The canon phrase "î veqash su" (I love you) is treated as
+    fixed — see phrases.yaml and open question D11.
+
+- lemma: t-kh-r
+  ipa: t-χ-r
+  pos: verb-root
+  gloss: to live
+  root: t-kh-r
+  status: canon
+  source: [official-canon, base-dict, legend]
+
+- lemma: d-q-b
+  ipa: d-k-b
+  pos: verb-root
+  gloss: to fear, to be scared
+  root: d-q-b
+  status: canon
+  source: [official-canon, base-dict, legend]
+
+- lemma: m-v-t
+  ipa: m-v-t
+  pos: verb-root
+  gloss: to trust
+  root: m-v-t
+  status: canon
+  source: [official-canon, base-dict, legend]
+
+- lemma: l-b-
+  ipa: l-b
+  pos: verb-root
+  gloss: to eat
+  root: l-b-
+  status: canon
+  source: [official-canon, base-dict]
+
+- lemma: r-s-sh
+  ipa: r-s-ʃ
+  pos: verb-root
+  gloss: to fight
+  root: r-s-sh
+  status: canon
+  source: [official-canon, base-dict, legend]
+
+- lemma: b-y-
+  ipa: b-j
+  pos: verb-root
+  gloss: to study, to read
+  root: b-y-
+  status: canon
+  source: [official-canon, base-dict]
+
+- lemma: v-d-b
+  ipa: v-d-b
+  pos: verb-root
+  gloss: to write
+  root: v-d-b
+  status: canon
+  source: [official-canon, base-dict]
+
+- lemma: d-n-b
+  ipa: d-n-b
+  pos: verb-root
+  gloss: to sit
+  root: d-n-b
+  status: canon
+  source: [base-dict]
+
+- lemma: v-s-t
+  ipa: v-s-t
+  pos: verb-root
+  gloss: to see
+  root: v-s-t
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: h-kh-d
+  ipa: h-χ-d
+  pos: verb-root
+  gloss: to give
+  root: h-kh-d
+  status: canon
+  source: [base-dict]
+
+- lemma: n-n-d
+  ipa: n-n-d
+  pos: verb-root
+  gloss: to move
+  root: n-n-d
+  status: canon
+  source: [base-dict, base-grammar]
+
+- lemma: r-sh-q
+  ipa: r-ʃ-k
+  pos: verb-root
+  gloss: to throw
+  root: r-sh-q
+  status: canon
+  source: [base-dict]
+
+- lemma: b-v-l
+  ipa: b-v-l
+  pos: verb-root
+  gloss: to turn
+  root: b-v-l
+  status: canon
+  source: [base-dict]
+
+- lemma: l-t-sh
+  ipa: l-t-ʃ
+  pos: verb-root
+  gloss: to carry
+  root: l-t-sh
+  status: canon
+  source: [base-dict]
+
+- lemma: n-t-r
+  ipa: n-t-r
+  pos: verb-root
+  gloss: to cook
+  root: n-t-r
+  status: canon
+  source: [base-dict, enhanced]
+
+- lemma: b-sh-
+  ipa: b-ʃ
+  pos: verb-root
+  gloss: to pray
+  root: b-sh-
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: r-kh-d
+  ipa: r-χ-d
+  pos: verb-root
+  gloss: to lose (an object)
+  root: r-kh-d
+  status: canon
+  source: [base-dict]
+  notes: '"To lose (a fight)" is a recorded empty slot in the original dictionary — see development/gaps.md.'
+
+- lemma: b-v-r
+  ipa: b-v-r
+  pos: verb-root
+  gloss: to feel
+  root: b-v-r
+  status: canon
+  source: [base-dict, decision:D9]
+  notes: The greeting form is Naish su buvar? "How are you feeling?" (the earlier buvash was ruled a typo, D9).
+
+- lemma: q-r-d
+  ipa: k-r-d
+  pos: verb-root
+  gloss: to want
+  root: q-r-d
+  status: canon
+  source: [base-dict, base-grammar]
+
+- lemma: s-v-
+  ipa: s-v
+  pos: verb-root
+  gloss: to speak, to say
+  root: s-v-
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: n-d-m
+  ipa: n-d-m
+  pos: verb-root
+  gloss: to apologize
+  root: n-d-m
+  status: canon
+  source: [base-dict]
+
+- lemma: v-l-d
+  ipa: v-l-d
+  pos: verb-root
+  gloss: to think
+  root: v-l-d
+  status: canon
+  source: [base-dict]
+
+- lemma: m-d-
+  ipa: m-d
+  pos: verb-root
+  gloss: to sleep
+  root: m-d-
+  status: canon
+  source: [base-dict, enhanced]
+
+- lemma: w-m-
+  ipa: ʋ-m
+  pos: verb-root
+  gloss: to follow
+  root: w-m-
+  status: canon
+  source: [base-dict]
+
+# ---- From the working notes (legend-attested = canon; otherwise provisional) ----
+
+- lemma: q-h-p
+  ipa: k-h-p
+  pos: verb-root
+  gloss: to help
+  root: q-h-p
+  status: canon
+  source: [base-notes, legend]
+  notes: Contains p in the root notation although /p/ is absent from the inventory; the attested form qîhuap also shows p. Flagged in development/gaps.md.
+
+- lemma: s-l-v
+  ipa: s-l-v
+  pos: verb-root
+  gloss: to survive
+  root: s-l-v
+  status: canon
+  source: [base-notes, legend]
+
+- lemma: q-r-sh
+  ipa: k-r-ʃ
+  pos: verb-root
+  gloss: to freeze
+  root: q-r-sh
+  status: canon
+  source: [base-notes, legend]
+
+- lemma: m-l-
+  ipa: m-l
+  pos: verb-root
+  gloss: to hide
+  root: m-l-
+  status: canon
+  source: [base-notes, legend]
+
+- lemma: b-q-t
+  ipa: b-k-t
+  pos: verb-root
+  gloss: to harvest
+  root: b-q-t
+  status: canon
+  source: [base-notes, legend]
+
+- lemma: n-r-v
+  ipa: n-r-v
+  pos: verb-root
+  gloss: to starve
+  root: n-r-v
+  status: canon
+  variants: [n-r-f]
+  source: [base-notes, legend, decision:D10]
+  notes: Originally noted as n-r-f; /f/ is not in the inventory and the legend conjugates neruv — corrected per D10.
+
+- lemma: b-d-r
+  ipa: b-d-r
+  pos: verb-root
+  gloss: to come
+  root: b-d-r
+  status: provisional
+  source: [base-notes]
+
+- lemma: q-m-d
+  ipa: k-m-d
+  pos: verb-root
+  gloss: to hug
+  root: q-m-d
+  status: provisional
+  source: [base-notes]
+
+- lemma: sh-d-l
+  ipa: ʃ-d-l
+  pos: verb-root
+  gloss: to kiss
+  root: sh-d-l
+  status: provisional
+  source: [base-notes]
+  notes: Root shape overlaps the prefix verb sh-d- "to become"; watch for conjugation collisions.
+
+- lemma: q-n-l
+  ipa: k-n-l
+  pos: verb-root
+  gloss: to cuddle
+  root: q-n-l
+  status: provisional
+  source: [base-notes]
+
+- lemma: q-kh-t
+  ipa: k-χ-t
+  pos: verb-root
+  gloss: to fuck
+  root: q-kh-t
+  status: provisional
+  source: [base-notes]
+  notes: Plausible source of the accepted curse khât (D6).
+
+- lemma: d-l-
+  ipa: d-l
+  pos: verb-root
+  gloss: to enjoy
+  root: d-l-
+  status: provisional
+  source: [base-notes]
+
+- lemma: q-d-s
+  ipa: k-d-s
+  pos: verb-root
+  gloss: to like
+  root: q-d-s
+  status: provisional
+  variants: [k-d-s]
+  source: [base-notes, decision:D3]
+
+- lemma: kh-t-s
+  ipa: χ-t-s
+  pos: verb-root
+  gloss: to dislike
+  root: kh-t-s
+  status: provisional
+  source: [base-notes]
+
+- lemma: kh-t-r
+  ipa: χ-t-r
+  pos: verb-root
+  gloss: to hate
+  root: kh-t-r
+  status: provisional
+  source: [base-notes]
+  notes: Official canon expresses "I hate you" as î naaq-veqash su ("I have no love for you"); this root may be redundant or stronger in force — undecided.
+
+- lemma: w-t-
+  ipa: ʋ-t
+  pos: verb-root
+  gloss: to work
+  root: w-t-
+  status: provisional
+  source: [base-notes]
+
+- lemma: q-v-t
+  ipa: k-v-t
+  pos: verb-root
+  gloss: to test
+  root: q-v-t
+  status: provisional
+  source: [base-notes]

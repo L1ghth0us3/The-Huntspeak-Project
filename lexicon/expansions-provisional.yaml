@@ -1,0 +1,210 @@
+# The roleplay expansion set from the cheatsheet: insults, swears, nicknames.
+# Status per decision D6: provisional (sha and khât were accepted — see phrases.yaml).
+# Items marked "undocumented root" contain material attested nowhere else;
+# each needs an etymology or explicit acceptance as an opaque root before promotion.
+
+# ---- Compositional (built from existing canon words) ----------------------------
+
+- lemma: ayarevi
+  ipa: ajarevi
+  pos: noun
+  gloss: oblivious fool
+  definition: Literally "far-eye"; one who does not see what is in front of them.
+  parts: [ayar, evi]
+  status: provisional
+  source: [cheatsheet]
+
+- lemma: ayaridwa
+  ipa: ajaridʋa
+  pos: noun
+  gloss: one who will not listen
+  definition: Literally "far-ear".
+  parts: [ayar, idwa]
+  status: provisional
+  source: [cheatsheet]
+
+- lemma: naaqevi
+  ipa: nɑ:kevi
+  pos: noun
+  gloss: hopeless fool
+  definition: Literally "no-eye".
+  parts: [naaq, evi]
+  status: provisional
+  source: [cheatsheet]
+
+- lemma: naaqidwa
+  ipa: nɑ:kidʋa
+  pos: noun
+  gloss: one incapable of learning
+  definition: Literally "no-ear".
+  parts: [naaq, idwa]
+  status: provisional
+  source: [cheatsheet]
+
+- lemma: radayi
+  ipa: radaji
+  pos: noun
+  gloss: little-claw (affectionate teasing)
+  parts: [rad, ayi]
+  status: provisional
+  source: [cheatsheet]
+
+- lemma: radqän
+  ipa: radkæn
+  pos: noun
+  gloss: little-fang (feisty, cocky; teasing nickname)
+  parts: [rad, qän]
+  status: provisional
+  source: [cheatsheet]
+
+- lemma: tusaqän
+  ipa: tusakæn
+  pos: noun
+  gloss: loud-fang; big talker
+  parts: [tusa, qän]
+  status: provisional
+  source: [cheatsheet]
+
+- lemma: yirqän
+  ipa: jirkæn
+  pos: noun
+  gloss: strong-fang; reliable fighter or hunter
+  parts: [yir, qän]
+  status: provisional
+  source: [cheatsheet]
+
+- lemma: shilaqäsh
+  ipa: ʃilakæʃ
+  pos: noun
+  gloss: near-heart; a deeply loved and trusted person
+  parts: [shila, qäsh]
+  status: provisional
+  source: [cheatsheet]
+
+- lemma: tusaya
+  ipa: tusaja
+  pos: noun
+  gloss: loudmouth, noisy fool
+  parts: [tusa]
+  status: provisional
+  source: [cheatsheet]
+  notes: Second element unclear (yasa "voice"? yum "mouth"?); derivation needs documenting.
+
+- lemma: suläqar
+  ipa: sulækar
+  pos: noun
+  gloss: one who abandons the group (serious insult)
+  parts: [sula, haqar]
+  status: provisional
+  source: [cheatsheet]
+  notes: Formation sula + (ha)qar with unexplained ä at the seam.
+
+- lemma: naashil
+  ipa: nɑ:ʃil
+  pos: adjective
+  gloss: disloyal, treacherous, without bonds
+  parts: [naaq, shila]
+  status: provisional
+  source: [cheatsheet]
+  notes: Apparent contraction of naaq + shila ("without closeness").
+
+# ---- Undocumented roots (need etymology or acceptance as opaque roots) ------------
+
+- lemma: davi
+  ipa: davi
+  pos: noun
+  gloss: idiot, dummy
+  status: provisional
+  source: [cheatsheet]
+  notes: Undocumented root; one vowel from dav "chest" (provisional noun).
+
+- lemma: meläyi
+  ipa: melæji
+  pos: noun
+  gloss: soft-claw; sheltered, inexperienced person
+  parts: [ayi]
+  status: provisional
+  source: [cheatsheet]
+  notes: First element melä- "soft" exists nowhere else (m-l- is "to hide").
+
+- lemma: doruqän
+  ipa: dorukæn
+  pos: noun
+  gloss: dull-fang; all talk, little ability
+  parts: [qän]
+  status: provisional
+  source: [cheatsheet]
+  notes: First element doru- "dull" is an undocumented root and uses the marginal vowel o.
+
+- lemma: vesha
+  ipa: veʃa
+  pos: noun
+  gloss: someone with terrible instincts
+  status: provisional
+  source: [cheatsheet]
+  notes: Undocumented root; possibly related to veth "weak".
+
+- lemma: shäru
+  ipa: ʃæru
+  pos: noun
+  gloss: loose tongue; one who cannot keep secrets
+  status: provisional
+  source: [cheatsheet]
+  notes: Undocumented root.
+
+- lemma: kharum
+  ipa: χarum
+  pos: noun
+  gloss: rotten, carrion; worthless person
+  status: provisional
+  source: [cheatsheet]
+  notes: Undocumented root.
+
+- lemma: kharum-yum
+  ipa: χarum.jum
+  pos: noun
+  gloss: carrion-mouth; vile speaker
+  parts: [kharum, yum]
+  status: provisional
+  source: [cheatsheet]
+
+- lemma: tesh
+  ipa: teʃ
+  pos: interjection
+  gloss: damn it (annoyance)
+  status: provisional
+  source: [cheatsheet]
+  notes: Undocumented root.
+
+- lemma: shäk
+  ipa: ʃæk
+  pos: interjection
+  gloss: damn! / shit! (frustration)
+  status: provisional
+  source: [cheatsheet]
+  notes: Undocumented root. Spelling with final k predates D3; expected spelling would be shäq.
+
+- lemma: qit
+  ipa: kit
+  pos: interjection
+  gloss: ow, fuck! (sudden sharp pain)
+  status: provisional
+  variants: [kit]
+  source: [cheatsheet, decision:D3]
+  notes: Undocumented root; respelled from kit per D3.
+
+- lemma: khur
+  ipa: χur
+  pos: interjection
+  gloss: fuck... / bloody hell (dread, exhaustion)
+  status: provisional
+  source: [cheatsheet]
+  notes: Undocumented root.
+
+- lemma: shakhat
+  ipa: ʃaχat
+  pos: noun
+  gloss: bastard (directed insult)
+  status: provisional
+  source: [cheatsheet]
+  notes: Undocumented root; possibly sh- copula + khât ("being-fucked")? Derivation unconfirmed.

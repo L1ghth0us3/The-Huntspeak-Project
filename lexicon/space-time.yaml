@@ -1,0 +1,283 @@
+# Positionals and temporals. Usage: docs/grammar/08-space-and-time.md
+# All from the base dictionary (canon). Format: lexicon/SCHEMA.md
+
+# ---- Motion positionals ------------------------------------------------------
+
+- lemma: däya
+  ipa: dæja
+  pos: preposition
+  gloss: down
+  definition: Motion downward ("walking down something").
+  status: canon
+  source: [base-dict]
+
+- lemma: asu
+  ipa: asu
+  pos: preposition
+  gloss: up
+  definition: Motion upward ("pushing up something"; "looked up", legend).
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: saae
+  ipa: sa:e
+  pos: preposition
+  gloss: out of
+  status: canon
+  source: [base-dict]
+
+- lemma: i'saae
+  ipa: i.sa:e
+  pos: preposition
+  gloss: into
+  parts: [saae]
+  status: canon
+  source: [base-dict]
+
+- lemma: ayu
+  ipa: aju
+  pos: preposition
+  gloss: toward, to
+  definition: Motion towards something.
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: sula
+  ipa: sula
+  pos: preposition
+  gloss: away
+  definition: Motion away from something.
+  status: canon
+  source: [base-dict]
+
+- lemma: äsaq
+  ipa: æsak
+  pos: preposition
+  gloss: past
+  status: canon
+  source: [base-dict]
+
+- lemma: uisa
+  ipa: uisa
+  pos: preposition
+  gloss: over
+  status: canon
+  source: [base-dict]
+
+- lemma: qaal
+  ipa: ka:l
+  pos: preposition
+  gloss: onto
+  status: canon
+  source: [base-dict]
+
+- lemma: eryet
+  ipa: erjet
+  pos: preposition
+  gloss: off
+  definition: Taking something off something.
+  status: canon
+  source: [base-dict]
+
+- lemma: lium
+  ipa: lium
+  pos: preposition
+  gloss: around
+  status: canon
+  source: [base-dict]
+
+- lemma: nui
+  ipa: nui
+  pos: preposition
+  gloss: along
+  status: canon
+  source: [base-dict]
+
+- lemma: anash
+  ipa: anaʃ
+  pos: preposition
+  gloss: across
+  status: canon
+  source: [base-dict]
+
+- lemma: yurad
+  ipa: jurad
+  pos: preposition
+  gloss: through
+  status: canon
+  source: [base-dict]
+
+# ---- Position positionals ------------------------------------------------------
+
+- lemma: yat
+  ipa: jat
+  pos: preposition
+  gloss: in
+  definition: Location inside; extends to abstract targets (muvat yat shiä, "trust in the moon").
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: laya
+  ipa: laja
+  pos: preposition
+  gloss: on
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: vayu
+  ipa: vaju
+  pos: preposition
+  gloss: next to
+  status: canon
+  source: [base-dict]
+
+- lemma: abiya
+  ipa: abija
+  pos: preposition
+  gloss: between
+  status: canon
+  source: [base-dict]
+
+- lemma: inela
+  ipa: inela
+  pos: preposition
+  gloss: among
+  status: canon
+  source: [base-dict]
+
+- lemma: dakhan
+  ipa: daχan
+  pos: preposition
+  gloss: in front of
+  definition: Spatial only; temporal "before" is tarem.
+  status: canon
+  source: [base-dict]
+
+- lemma: heidu
+  ipa: heidu
+  pos: preposition
+  gloss: behind
+  status: canon
+  source: [base-dict]
+
+- lemma: ehyu
+  ipa: ehju
+  pos: preposition
+  gloss: above
+  status: canon
+  source: [base-dict]
+
+- lemma: dahu
+  ipa: dahu
+  pos: preposition
+  gloss: below
+  status: canon
+  source: [base-dict]
+
+- lemma: eenab
+  ipa: e:nab
+  pos: preposition
+  gloss: under
+  status: canon
+  source: [base-dict]
+
+- lemma: shila
+  ipa: ʃila
+  pos: preposition
+  gloss: near
+  status: canon
+  source: [base-dict, cheatsheet]
+
+- lemma: ayar
+  ipa: ajar
+  pos: preposition
+  gloss: far
+  status: canon
+  source: [base-dict, cheatsheet]
+
+- lemma: uan
+  ipa: uan
+  pos: preposition
+  gloss: from
+  definition: Origin ("to be from"); also "from" a threat (legend).
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: isea
+  ipa: isea
+  pos: preposition
+  gloss: left
+  definition: To my left.
+  status: canon
+  source: [base-dict]
+
+- lemma: yama
+  ipa: jama
+  pos: preposition
+  gloss: right
+  definition: To my right.
+  status: canon
+  source: [base-dict]
+
+# ---- Temporals -----------------------------------------------------------------
+
+- lemma: itâ
+  ipa: itʌ
+  pos: adverb
+  gloss: now
+  status: canon
+  source: [base-dict, cheatsheet]
+
+- lemma: eene
+  ipa: e:ne
+  pos: adverb
+  gloss: later
+  status: canon
+  source: [base-dict, cheatsheet]
+
+- lemma: ashad
+  ipa: aʃad
+  pos: preposition
+  gloss: during
+  status: canon
+  source: [base-dict]
+  notes: Division of labor with eshu "while" and nanaqa "at the same time" is not yet defined.
+
+- lemma: avikh
+  ipa: aviχ
+  pos: preposition
+  gloss: after
+  definition: Also links clauses ("after we fight, we eat").
+  status: canon
+  source: [base-dict, enhanced]
+
+- lemma: eshu
+  ipa: eʃu
+  pos: conjunction
+  gloss: while
+  definition: Simultaneous time; links clauses.
+  status: canon
+  source: [base-dict, enhanced]
+
+- lemma: tarem
+  ipa: tarem
+  pos: conjunction
+  gloss: before
+  definition: Earlier relative time; purely temporal (spatial "in front of" is dakhan).
+  status: canon
+  source: [enhanced, decision:D5]
+
+- lemma: îtâsh
+  ipa: ɪtʌʃ
+  pos: adverb
+  gloss: still
+  definition: Continuing state ("I am still eating").
+  status: canon
+  source: [base-dict]
+
+- lemma: nanaqa
+  ipa: nanaka
+  pos: adverb
+  gloss: at the same time
+  status: canon
+  source: [base-dict]

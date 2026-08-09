@@ -1,0 +1,192 @@
+# Compound and derived words. Formation rules: docs/grammar/09-word-formation.md
+# Format: lexicon/SCHEMA.md
+
+- lemma: radyävu
+  ipa: radjævu
+  pos: noun
+  gloss: child
+  definition: A young person.
+  parts: [rad, tyävu]
+  status: canon
+  source: [base-dict]
+
+- lemma: shidyävu
+  ipa: ʃidjævu
+  pos: noun
+  gloss: friend
+  definition: Literally "near-person"; a close friend.
+  parts: [shila, tyävu]
+  status: canon
+  source: [base-dict, cheatsheet]
+
+- lemma: shilaqar
+  ipa: ʃilakar
+  pos: noun
+  gloss: tribe
+  parts: [shila, haqar]
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: qäinaqar
+  ipa: kæinakar
+  pos: noun
+  gloss: family
+  parts: [qäin, haqar]
+  status: canon
+  variants: [käinaqar]
+  source: [base-dict, decision:D3]
+
+- lemma: wäwitul
+  ipa: ʋæʋitul
+  pos: noun
+  gloss: tree
+  definition: Literally "forest-piece".
+  parts: [wäwi, tul]
+  status: canon
+  source: [base-dict]
+
+- lemma: nälitul
+  ipa: nælitul
+  pos: noun
+  gloss: thought
+  definition: Literally "mind-piece".
+  parts: [näli, tul]
+  status: canon
+  source: [base-dict]
+
+- lemma: shiätul
+  ipa: ʃiætul
+  pos: noun
+  gloss: shooting star
+  definition: Literally "moon-piece".
+  parts: [shiä, tul]
+  status: canon
+  source: [base-dict]
+
+- lemma: tyelävi
+  ipa: tjelævi
+  pos: noun
+  gloss: leather
+  definition: Literally "animal-skin".
+  parts: [tye, lävi]
+  status: canon
+  source: [base-dict]
+
+- lemma: radyävuvalir
+  ipa: radjævuvalir
+  pos: adjective
+  gloss: childish
+  parts: [radyävu, valir]
+  status: canon
+  source: [base-dict]
+
+- lemma: tyevalir
+  ipa: tjevalir
+  pos: adjective
+  gloss: animalistic
+  parts: [tye, valir]
+  status: canon
+  source: [base-dict]
+
+- lemma: qinvalir
+  ipa: kinvalir
+  pos: adjective
+  gloss: royal
+  parts: [qin, valir]
+  status: canon
+  variants: [kinvalir]
+  source: [base-dict, decision:D3]
+
+- lemma: qäinvalir
+  ipa: kæinvalir
+  pos: adjective
+  gloss: motherly
+  parts: [qäin, valir]
+  status: canon
+  variants: [käinvalir]
+  source: [base-dict, decision:D3]
+
+- lemma: layädi
+  ipa: lajædi
+  pos: adverb
+  gloss: today
+  definition: Literally "on-day".
+  parts: [laya, ädi]
+  status: canon
+  source: [base-dict]
+
+- lemma: vayädi
+  ipa: vajædi
+  pos: adverb
+  gloss: tomorrow
+  definition: Literally "next-to-day".
+  parts: [vayu, ädi]
+  status: canon
+  source: [base-dict]
+
+- lemma: heyädi
+  ipa: hejædi
+  pos: adverb
+  gloss: yesterday
+  definition: Literally "behind-day" (contracted from heidu).
+  parts: [heidu, ädi]
+  status: canon
+  source: [base-dict]
+
+- lemma: kharashiä
+  ipa: χaraʃiæ
+  pos: adverb
+  gloss: tonight
+  definition: Literally "this-moon".
+  parts: [kharau, shiä]
+  status: canon
+  source: [base-dict]
+
+- lemma: yethieq
+  ipa: jeθiek
+  pos: noun
+  gloss: clear skies
+  definition: Literally "nothing-sky".
+  parts: [yethin, rieq]
+  status: canon
+  source: [base-notes, legend]
+
+- lemma: naaq-qin
+  ipa: nɑ:k.kin
+  pos: adjective
+  gloss: queen-less
+  definition: Privative naaq- on qin; from the legend's "queen-less groups".
+  parts: [naaq, qin]
+  status: canon
+  variants: [naaq-kin]
+  source: [legend, decision:D3]
+
+# ---- Provisional (added in the enhanced document, not yet ruled on) -----------
+
+- lemma: nilaqar
+  ipa: nilakar
+  pos: noun
+  gloss: outsider
+  definition: One outside the tribe; contraction of naaq-shilaqar.
+  parts: [naaq, shilaqar]
+  status: provisional
+  source: [enhanced]
+
+- lemma: khiädyasa
+  ipa: χiædjasa
+  pos: noun
+  gloss: Huntspeak (hunting register)
+  definition: Literally "hunt-voice"; the signalling register of clicks, whistles, and calls used on the hunt.
+  parts: [khiäd, yasa]
+  status: provisional
+  source: [enhanced]
+  notes: Matches official canon's description of the clicks-and-whistles register; the name itself is a fan coinage.
+
+- lemma: shilyasa
+  ipa: ʃiljasa
+  pos: noun
+  gloss: Huntspeak (spoken language)
+  definition: Literally "near/tribe-voice"; the full spoken language.
+  parts: [shila, yasa]
+  status: provisional
+  source: [enhanced]

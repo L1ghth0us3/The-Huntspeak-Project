@@ -1,0 +1,605 @@
+# Nouns (simple stems). Compound nouns live in compounds.yaml.
+# Format: lexicon/SCHEMA.md
+
+- lemma: aimina
+  ipa: aimina
+  pos: noun
+  gloss: face
+  status: canon
+  source: [base-dict]
+
+- lemma: ayi
+  ipa: aji
+  pos: noun
+  gloss: claw
+  status: canon
+  source: [base-dict]
+
+- lemma: ädi
+  ipa: ædi
+  pos: noun
+  gloss: day
+  status: canon
+  source: [base-dict]
+
+- lemma: ärya
+  ipa: ærjɑ
+  pos: noun
+  gloss: sun
+  definition: Heavenly body visible during the day.
+  status: canon
+  source: [base-dict]
+
+- lemma: äse
+  ipa: æse
+  pos: noun
+  gloss: star
+  definition: Heavenly body visible during the night.
+  status: canon
+  source: [base-dict]
+
+- lemma: âmas
+  ipa: ʌmas
+  pos: noun
+  gloss: water
+  status: canon
+  source: [base-dict]
+
+- lemma: bil
+  ipa: bil
+  pos: noun
+  gloss: back (body part)
+  status: canon
+  source: [base-dict]
+
+- lemma: dima
+  ipa: dimɑ
+  pos: noun
+  gloss: life
+  definition: The quality that distinguishes a vital and functional being from a dead body.
+  status: canon
+  source: [base-dict]
+
+- lemma: eala
+  ipa: eala
+  pos: noun
+  gloss: bow
+  definition: A projectile-shooting hunting device.
+  status: canon
+  source: [base-dict]
+
+- lemma: erlä
+  ipa: erlæ
+  pos: noun
+  gloss: footprint, tracks
+  status: canon
+  source: [base-dict, cheatsheet]
+
+- lemma: evi
+  ipa: evi
+  pos: noun
+  gloss: eye
+  status: canon
+  source: [base-dict]
+
+- lemma: haqar
+  ipa: hakar
+  pos: noun
+  gloss: group
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: hâiru
+  ipa: hʌiru
+  pos: noun
+  gloss: cave
+  status: canon
+  source: [base-dict]
+
+- lemma: iäqu
+  ipa: iæku
+  pos: noun
+  gloss: hair
+  status: canon
+  source: [base-dict]
+
+- lemma: idwa
+  ipa: idʋa
+  pos: noun
+  gloss: ear
+  status: canon
+  source: [base-dict]
+
+- lemma: ikhel
+  ipa: iχel
+  pos: noun
+  gloss: death
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: ineq
+  ipa: inek
+  pos: noun
+  gloss: color
+  definition: A phenomenon of light or visual perception that enables one to differentiate otherwise identical objects.
+  status: canon
+  source: [base-dict]
+
+- lemma: khadi
+  ipa: χadi
+  pos: noun
+  gloss: power
+  status: canon
+  source: [base-dict]
+
+- lemma: khâl
+  ipa: χʌl
+  pos: noun
+  gloss: fire
+  definition: Phenomenon of combustion manifested in light, flame and heat.
+  status: canon
+  source: [base-dict]
+
+- lemma: khâqa
+  ipa: χʌka
+  pos: noun
+  gloss: heat
+  status: canon
+  source: [base-dict]
+  notes: The original dictionary tagged this "Adjective", evidently in error; the adjective "hot" is hesh.
+
+- lemma: khela
+  ipa: χela
+  pos: noun
+  gloss: blood
+  status: canon
+  source: [base-dict, cheatsheet]
+
+- lemma: khiäd
+  ipa: χiæd
+  pos: noun
+  gloss: hunt
+  definition: The act of hunting.
+  status: canon
+  source: [base-dict]
+
+- lemma: lävi
+  ipa: lævi
+  pos: noun
+  gloss: skin
+  status: canon
+  source: [base-dict]
+
+- lemma: let
+  ipa: let
+  pos: noun
+  gloss: hand
+  status: canon
+  source: [base-dict]
+
+- lemma: lish
+  ipa: liʃ
+  pos: noun
+  gloss: thing
+  definition: An object or entity not precisely designated or capable of being designated.
+  status: canon
+  source: [base-dict]
+
+- lemma: mâish
+  ipa: mʌiʃ
+  pos: noun
+  gloss: sleep, rest
+  status: canon
+  source: [base-dict, cheatsheet]
+
+- lemma: mîdam
+  ipa: mɪdɑm
+  pos: noun
+  gloss: morning
+  definition: The time from sunrise to noon.
+  status: canon
+  source: [base-dict, official-canon]
+
+- lemma: näli
+  ipa: næli
+  pos: noun
+  gloss: mind, soul
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: nätum
+  ipa: nætum
+  pos: noun
+  gloss: night
+  definition: The time from dusk to dawn when no sunlight is visible.
+  status: canon
+  source: [base-dict, official-canon, legend]
+
+- lemma: qakhä
+  ipa: kɑχæ
+  pos: noun
+  gloss: stone, rock
+  definition: A concretion of earthy or mineral matter.
+  status: canon
+  source: [base-dict]
+
+- lemma: qatekh
+  ipa: kateχ
+  pos: noun
+  gloss: time
+  status: canon
+  source: [base-dict]
+
+- lemma: qäin
+  ipa: kæin
+  pos: noun
+  gloss: mother
+  status: canon
+  variants: [käin]
+  source: [base-dict, legend]
+
+- lemma: qän
+  ipa: kæn
+  pos: noun
+  gloss: fang, tooth
+  status: canon
+  source: [base-dict]
+
+- lemma: qäru
+  ipa: kæru
+  pos: noun
+  gloss: food
+  status: canon
+  variants: [evum]
+  source: [enhanced, decision:D2]
+  notes: Replaced evum by decision D2 ("evum sounds too Latin").
+
+- lemma: qäsh
+  ipa: kæʃ
+  pos: noun
+  gloss: heart, love
+  definition: >-
+    The internal organ, and love/affection. Also used adjectivally for "good,
+    morally correct" (moral goodness; contrast qar, good in quality). As an
+    address: "dear, beloved".
+  status: canon
+  variants: [qash, qaash]
+  source: [base-dict, official-canon, cheatsheet]
+
+- lemma: qây
+  ipa: kʌj
+  pos: noun
+  gloss: knife
+  status: canon
+  source: [base-dict]
+
+- lemma: qin
+  ipa: kin
+  pos: noun
+  gloss: queen
+  definition: A female monarch.
+  status: canon
+  variants: [kin]
+  source: [base-dict, legend, decision:D3]
+
+- lemma: quâsh
+  ipa: kuʌʃ
+  pos: noun
+  gloss: nose
+  status: canon
+  source: [base-dict]
+
+- lemma: rieq
+  ipa: riek
+  pos: noun
+  gloss: sky
+  status: canon
+  source: [base-dict]
+
+- lemma: säna
+  ipa: sæna
+  pos: noun
+  gloss: butt
+  status: canon
+  source: [base-dict]
+
+- lemma: shiä
+  ipa: ʃiæ
+  pos: noun
+  gloss: moon
+  definition: Largest heavenly body visible at night.
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: shiqâ
+  ipa: ʃikʌ
+  pos: noun
+  gloss: wind
+  status: canon
+  source: [base-dict]
+
+- lemma: tai
+  ipa: tai
+  pos: noun
+  gloss: foot
+  status: canon
+  source: [base-dict]
+
+- lemma: tewiqay
+  ipa: teʋikaj
+  pos: noun
+  gloss: home
+  status: canon
+  source: [base-dict]
+
+- lemma: tul
+  ipa: tul
+  pos: noun
+  gloss: piece, unit
+  definition: A single quantity. Productive as a compound head ("piece of X").
+  status: canon
+  source: [base-dict]
+
+- lemma: turalu
+  ipa: turalu
+  pos: noun
+  gloss: poop
+  status: canon
+  source: [base-dict]
+
+- lemma: tye
+  ipa: tje
+  pos: noun
+  gloss: animal
+  definition: A living organism besides the higher races.
+  status: canon
+  source: [base-dict, base-grammar, legend]
+
+- lemma: tyävu
+  ipa: tjævu
+  pos: noun
+  gloss: person
+  definition: An individual. Surfaces as -dyävu in compounds (radyävu, shidyävu).
+  status: canon
+  source: [base-dict]
+
+- lemma: wâmal
+  ipa: ʋʌmal
+  pos: noun
+  gloss: name
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: weid
+  ipa: ʋeid
+  pos: noun
+  gloss: earth, soil
+  status: canon
+  source: [base-dict, legend]
+
+- lemma: wäwi
+  ipa: ʋæʋi
+  pos: noun
+  gloss: forest
+  definition: A dense growth of trees and underbrush covering a large tract.
+  status: canon
+  source: [base-dict]
+
+- lemma: yasa
+  ipa: jasa
+  pos: noun
+  gloss: sound, voice
+  status: canon
+  source: [base-dict, cheatsheet]
+
+- lemma: yäula
+  ipa: jæula
+  pos: noun
+  gloss: smell
+  status: canon
+  source: [base-dict]
+
+- lemma: yâl
+  ipa: jʌl
+  pos: noun
+  gloss: meeting
+  definition: An assembly for a common purpose. In the greeting Qar yâl, "well met".
+  status: canon
+  source: [base-dict, official-canon]
+
+- lemma: yum
+  ipa: jum
+  pos: noun
+  gloss: mouth
+  status: canon
+  source: [base-dict]
+
+- lemma: yuya
+  ipa: juja
+  pos: noun
+  gloss: grass
+  status: canon
+  source: [base-dict]
+
+# ---- From the working notes (legend-attested = canon; otherwise provisional) ----
+
+- lemma: yasyi
+  ipa: jasji
+  pos: noun
+  gloss: tale
+  status: canon
+  source: [base-notes, legend]
+
+- lemma: khash
+  ipa: χaʃ
+  pos: noun
+  gloss: ancestors
+  status: canon
+  source: [base-notes, legend]
+
+- lemma: rav'i
+  ipa: rav.i
+  pos: noun
+  gloss: thirst
+  status: canon
+  source: [base-notes, legend, decision:D1]
+  notes: Means thirst only; the legend's uses of rav'i for "cold" were ruled errors (D1) and corrected to sheq.
+
+- lemma: qik'et
+  ipa: kik.et
+  pos: noun
+  gloss: hunger
+  status: canon
+  variants: [kik'et]
+  source: [base-notes, legend, decision:D3]
+
+- lemma: sathen
+  ipa: saθen
+  pos: noun
+  gloss: river
+  status: canon
+  source: [base-notes, legend]
+
+- lemma: yethin
+  ipa: jeθin
+  pos: noun
+  gloss: nothing
+  status: canon
+  variants: [yething]
+  source: [base-notes, legend, decision:D10]
+
+- lemma: shiroth
+  ipa: ʃiroθ
+  pos: noun
+  gloss: journey
+  status: canon
+  source: [base-notes, legend]
+  notes: Contains the marginal vowel o (see docs/pronunciation.md).
+
+- lemma: yash
+  ipa: jaʃ
+  pos: noun
+  gloss: hiss
+  definition: A warning hiss; as an exclamation, "stop / watch it".
+  status: canon
+  source: [base-notes, cheatsheet]
+
+- lemma: sylth
+  ipa: silθ
+  pos: noun
+  gloss: ash
+  status: provisional
+  source: [base-notes]
+  notes: Spelling uses y as a vowel, which no rule licenses; flagged in development/gaps.md.
+
+- lemma: qyul'sha
+  ipa: kjul.ʃa
+  pos: noun
+  gloss: shameful defeat
+  status: provisional
+  variants: [kyul'sha]
+  source: [base-notes, decision:D3]
+
+- lemma: iwatye
+  ipa: iʋatje
+  pos: noun
+  gloss: work
+  status: provisional
+  source: [base-notes]
+  notes: Relation to the root w-t- "to work" is undocumented.
+
+- lemma: asheli
+  ipa: aʃeli
+  pos: noun
+  gloss: tail
+  status: provisional
+  source: [base-notes]
+
+- lemma: emei
+  ipa: emei
+  pos: noun
+  gloss: leg
+  status: provisional
+  source: [base-notes]
+
+- lemma: inai
+  ipa: inai
+  pos: noun
+  gloss: arm
+  status: provisional
+  source: [base-notes]
+
+- lemma: rid
+  ipa: rid
+  pos: noun
+  gloss: finger
+  status: provisional
+  source: [base-notes]
+
+- lemma: dav
+  ipa: dav
+  pos: noun
+  gloss: chest
+  status: provisional
+  source: [base-notes]
+  notes: One vowel away from the provisional insult davi "idiot" (cheatsheet).
+
+- lemma: deye
+  ipa: deje
+  pos: noun
+  gloss: stomach
+  status: provisional
+  source: [base-notes]
+
+- lemma: dutya
+  ipa: dutja
+  pos: noun
+  gloss: breast
+  status: provisional
+  source: [base-notes]
+
+- lemma: qâne
+  ipa: kʌne
+  pos: noun
+  gloss: penis
+  status: provisional
+  source: [base-notes]
+
+- lemma: weush
+  ipa: ʋeuʃ
+  pos: noun
+  gloss: vagina
+  status: provisional
+  source: [base-notes]
+
+- lemma: idil
+  ipa: idil
+  pos: noun
+  gloss: toe
+  status: provisional
+  source: [base-notes]
+
+- lemma: yayum
+  ipa: jajum
+  pos: noun
+  gloss: tongue
+  parts: [yum]
+  status: provisional
+  source: [base-notes]
+
+- lemma: dälki
+  ipa: dælki
+  pos: noun
+  gloss: leaf
+  status: provisional
+  source: [base-notes]
+
+# ---- Deprecated -------------------------------------------------------------
+
+- lemma: evum
+  ipa: evum
+  pos: noun
+  gloss: food
+  status: deprecated
+  source: [base-dict, decision:D2]
+  notes: Replaced by qäru (D2).
