@@ -2,7 +2,7 @@
 
 Rulings by the project lead resolving the questions raised in the initial audit (`development/AUDIT.md`, §8 and Addendum A). Full evidence for each is in the audit.
 
-**Standing ruling:** `Huntspeak-Official-Canon` (archived verbatim in `development/archive/`) always holds true; all other material is expansion of it.
+**Standing ruling:** `Huntspeak-Official-Canon` (preserved verbatim in `canon/`) always holds true; all other material is expansion of it.
 
 | # | Question | Ruling | Applied where |
 | --- | --- | --- | --- |

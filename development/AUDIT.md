@@ -234,7 +234,7 @@ Gaps are recorded, **not filled**. Several may not need lexical solutions at all
 - **G5. Yes/no questions.** No documented mechanism (intonation? particle? `qî`-tag?).
 - **G6. Relative clauses.** The legend does it by juxtaposition (`amse nayal shu-budai-si neruv…` "her tribe that was slowly starving") — implicit only.
 - **G7. Imperative examples.** `-'qe` has one indirect attestation (`sevu'qe`, itself irregular — M7). No plain imperative example exists.
-- **G8. Empty lexical slots the source itself flags:** whom, whose, whether; to smell, to taste, to hear; to lose (a fight); all curses ("Whore, Shit, Fuck, Damn, By the Twelve, By Menphina, Moon hides from you"). CHEAT's swear proposals partially address the curses but are unaccepted (C13/D6). Some slots may be better served by derivation (e.g. "to hear" from `idwa` "ear" + a verb strategy) than by new roots — flag for design discussion, do not coin.
+- **G8. Empty lexical slots the source itself flags:** whom, whose, whether; to smell, to taste, to hear; to lose (a fight); several curse slots left blank (CHEAT's swear proposals partially address curses but are unaccepted — C13/D6). Some slots may be better served by derivation (e.g. "to hear" from `idwa` "ear" + a verb strategy) than by new roots — flag for design discussion, do not coin.
 - **G9. Adverbs.** No documented adverb class; `-si` on adjectives (M5) and post-verbal `däl` are the only evidence.
 - **G10. Register and politeness.** Nothing documented (interacts with C11's `tu`-as-singular question and M19's two language names).
 - **G11. Stress details.** First-syllable stress vs. prefixed verbs (`danenad`), compounds, and the possessive prefixes.
@@ -440,7 +440,7 @@ Only questions that materially change Huntspeak. Formatting, organization, and t
 
 ## A.1 New source: `Huntspeak-Official-Canon`
 
-The owner added `Huntspeak-Official-Canon`, containing the in-game/official material, with the ruling: **this file always holds true; every other file is an expansion of it.** This creates a new top authority level above BASE:
+The owner added `Huntspeak-Official-Canon`, containing the in-game/official material, with the ruling: **this file always holds true; every other file is an expansion of it.** This creates a new top authority level above BASE. *(Later relocated to the public `canon/` folder; the three BASE/ENH/CHEAT working documents remain private and are not published with the repository.)*
 
 > OFFICIAL CANON (game) > CANON (BASE/repo, as expansion) > PROVISIONAL > WORKING NOTES > PROPOSAL
 

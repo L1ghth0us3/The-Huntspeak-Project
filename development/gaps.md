@@ -30,7 +30,7 @@ Missing or incomplete parts of Huntspeak and its documentation. **A gap is not a
 - whom, whose, whether (interrogatives)
 - to smell, to taste, to hear (perception verbs — consider derivation from yäula, yayum/qäru, idwa before coining roots)
 - to lose (a fight) — empty row in the original dictionary; relates to `qyul'sha` "shameful defeat"
-- Curses: "Whore, By the Twelve, By Menphina, Moon hides from you" (listed but never filled; some may be phrases, not words)
+- Curses: several slots left empty in the working notes (e.g. "By the Twelve", "By Menphina", "Moon hides from you"; some may be phrases, not words)
 - **Numbers above five** — likely a design decision (base-5 compounding?) rather than five new roots
 - "alone", "to disappear" (needed by proposed proverbs)
 

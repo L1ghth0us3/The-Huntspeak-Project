@@ -8,6 +8,6 @@ Work in progress and project history — **nothing in this directory is learner-
 | `decisions/` | Project-lead decision records (append-only) — the authority trail for every change to canon |
 | `proposals/` | Proposed material awaiting a ruling (currently: the English-only proverbs) |
 | `gaps.md` | Known missing/incomplete parts of the language — read before proposing new words |
-| `archive/` | **Verbatim, untouched** copies of the original source documents, including the official game material (`Huntspeak-Official-Canon`). Never edit these. |
+| `archive/` | Local-only private working sources (gitignored). See [`archive/README.md`](archive/README.md). Official game material lives in [`canon/`](../canon/). |
 
 Provisional vocabulary is *not* stored here — it lives in the lexicon with `status: provisional`, so it stays searchable alongside canon.

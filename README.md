@@ -2,7 +2,7 @@
 
 Huntspeak is a community-developed constructed language inspired by the Miqo'te of **Final Fantasy XIV** — in particular the tribes of the Moon. It builds on the small amount of official in-game material and expands it into a full, speakable language for roleplay and storytelling.
 
-> **Disclaimer:** This is a fan project. Except where a source is explicitly marked as official game material (archived verbatim at `development/archive/Huntspeak-Official-Canon` and cited throughout the docs), nothing here is Square Enix canon. FINAL FANTASY XIV © SQUARE ENIX.
+> **Disclaimer:** This is a fan project. Except where a source is explicitly marked as official game material (preserved verbatim under [`canon/`](canon/) and cited throughout the docs), nothing here is Square Enix canon. FINAL FANTASY XIV © SQUARE ENIX.
 
 ## Start here
 
@@ -20,11 +20,12 @@ If you want to **look up a word**, the authoritative vocabulary lives in [`lexic
 
 | Path | Contents |
 | --- | --- |
+| `canon/` | Official in-game Huntspeak material (highest authority — do not edit) |
 | `docs/` | Learner documentation: introduction, pronunciation, grammar chapters, usage guides, reference tables |
 | `lexicon/` | The authoritative vocabulary, as structured YAML with per-entry status and source tracking |
 | `examples/` | Curated, glossed example sentences |
 | `texts/` | Long-form Huntspeak texts (currently: *The Tale of Our Ancestors*) |
-| `development/` | Work in progress: the audit, decision records, proposals, known gaps, and the verbatim archive of the original source documents |
+| `development/` | Work in progress: the audit, decision records, proposals, and known gaps |
 | `CONTRIBUTING.md` | How to report problems and propose vocabulary or grammar |
 | `GOVERNANCE.md` | How proposals become accepted Huntspeak |
 | `CHANGELOG.md` | Meaningful changes to the language itself |

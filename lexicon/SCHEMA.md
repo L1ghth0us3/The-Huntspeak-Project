@@ -35,18 +35,20 @@ Only non-empty fields are written. `lemma`, `pos`, `gloss`, `status`, and `sourc
 
 ## Source keys
 
-| Key | Meaning |
-| --- | --- |
-| `official-canon` | `Huntspeak-Official-Canon` (in-game material — highest authority) |
-| `base-dict` | The dictionary tables of the original `Huntspeak.md` |
-| `base-grammar` | The grammar sections/examples of `Huntspeak.md` |
-| `base-notes` | The "Just Notes" section of `Huntspeak.md` |
-| `legend` | *The Tale of Our Ancestors* |
-| `enhanced` | Material added in `Huntspeak (LLM enhanced).md` |
-| `cheatsheet` | `Huntspeak_CheatSheet.md` |
-| `decision:Dn` | Project-lead decision n (see `development/decisions/`) |
+`source` is **provenance metadata**: it records where an entry came from during the initial import. Most keys name private working documents that are **not published** with this repository. The lexicon entry itself is the public attestation.
 
-Originals are archived verbatim under `development/archive/`.
+| Key | Meaning | Where to look (public repo) |
+| --- | --- | --- |
+| `official-canon` | Official in-game material — highest authority | [`canon/Huntspeak-Official-Canon`](../canon/Huntspeak-Official-Canon) |
+| `base-dict` | Dictionary tables from the private working notes | Lexicon entries tagged with this key |
+| `base-grammar` | Grammar sections/examples from those notes | Docs under `docs/grammar/` + tagged lexicon/examples |
+| `base-notes` | The "Just Notes" section of those notes | Tagged lexicon entries and examples |
+| `legend` | *The Tale of Our Ancestors* | [`texts/tale-of-our-ancestors/`](../texts/tale-of-our-ancestors/) |
+| `enhanced` | Material added in a later private enhanced draft | Tagged lexicon entries (esp. clause linking) |
+| `cheatsheet` | Private RP cheatsheet / quick-reference draft | Phrasebook + `expansions-provisional.yaml` |
+| `decision:Dn` | Project-lead decision n | [`development/decisions/`](../development/decisions/) |
+
+Maintainers who hold the private working files keep them locally under `development/archive/` (gitignored). See [`development/archive/README.md`](../development/archive/README.md).
 
 ## Status policy for the initial import
 

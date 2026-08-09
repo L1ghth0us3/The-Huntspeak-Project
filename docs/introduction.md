@@ -4,7 +4,7 @@ Huntspeak is the language of the Miqo'te hunting tribes of Eorzea, as imagined b
 
 ## The official picture
 
-The game establishes this much (preserved verbatim in `development/archive/Huntspeak-Official-Canon`):
+The game establishes this much (preserved verbatim in `canon/Huntspeak-Official-Canon`):
 
 - Huntspeak **varies between the two tribes** — the Seekers of the Sun and the Keepers of the Moon — "on either reverent side of the Sun and Moon."
 - It **ranges from tongue clicks and whistles** (used to avoid distracting or scaring prey) **to a full guttural language**.

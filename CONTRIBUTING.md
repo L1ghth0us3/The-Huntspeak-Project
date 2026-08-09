@@ -30,9 +30,10 @@ Two words sharing an English translation are not automatically redundant — but
 
 ## Improving examples and translations
 
-- Never alter the verbatim originals under `development/archive/` or `texts/*/original.md`.
+- Never alter `canon/Huntspeak-Official-Canon` or `texts/*/original.md`.
 - Corrections to curated examples must cite the rule or decision that justifies them.
 - New translations of longer texts are very welcome — put unresolved word gaps in the translation notes rather than coining silently.
+- Lexicon `source:` tags such as `base-dict` or `cheatsheet` are provenance labels for private working notes that are not published in this repository. Treat the lexicon entry (and any linked decision) as the public record — see `lexicon/SCHEMA.md`.
 
 ## Style
 
