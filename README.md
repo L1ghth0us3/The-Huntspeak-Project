@@ -2,7 +2,7 @@
 
 Huntspeak is a community-developed constructed language inspired by the Miqo'te of **Final Fantasy XIV** — in particular the tribes of the Moon. It builds on the small amount of official in-game material and expands it into a full, speakable language for roleplay and storytelling.
 
-> **Disclaimer:** This is a fan project. Except where a source is explicitly marked as official game material (see `sources/Huntspeak-Official-Canon` in the archive and citations throughout the docs), nothing here is Square Enix canon. FINAL FANTASY XIV © SQUARE ENIX.
+> **Disclaimer:** This is a fan project. Except where a source is explicitly marked as official game material (archived verbatim at `development/archive/Huntspeak-Official-Canon` and cited throughout the docs), nothing here is Square Enix canon. FINAL FANTASY XIV © SQUARE ENIX.
 
 ## Start here
 
