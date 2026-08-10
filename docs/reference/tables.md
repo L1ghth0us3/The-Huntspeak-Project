@@ -13,7 +13,7 @@ Quick lookup while you write or speak. Explanations live in the grammar chapters
 | you (pl.) | tu | u | akhtu* |
 | they | te | e | akhte* |
 
-\* still settling — pattern-based (fine for RP)
+\* still settling - pattern-based (fine for RP)
 
 ## Tense/aspect vowel (V₂)
 
@@ -66,7 +66,7 @@ Order: **Question word + Subject + (Object) + Verb.**
 
 ## Numbers
 
-u *1* · bi *2* · ta *3* · qu *4* · ha *5* — higher numbers still open. Ends of a sequence: rab *first*, nääq *last*.
+u *1* · bi *2* · ta *3* · qu *4* · ha *5* - higher numbers still open. Ends of a sequence: rab *first*, nääq *last*.
 
 ## Clause connectives
 

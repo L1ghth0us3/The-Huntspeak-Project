@@ -4,7 +4,7 @@ Huntspeak likes building new words from pieces you already know. Before inventin
 
 ## Compounding
 
-**Modifier first, head last** — a `shilaqar` (near-group) is a kind of group; a `wäwitul` (forest-piece) is a piece of forest:
+**Modifier first, head last** - a `shilaqar` (near-group) is a kind of group; a `wäwitul` (forest-piece) is a piece of forest:
 
 | Compound | Parts | Meaning |
 | --- | --- | --- |
@@ -45,13 +45,13 @@ Related: `nainas` “without”, `naaq-iqe` “unless” (chapter 10).
 
 Two useful labels (still settling) match the two sides of Huntspeak:
 
-- **Khiädyasa** — “hunt-voice”: clicks, whistles, short calls
-- **Shilyasa** — “near-voice”: the full spoken language
+- **Khiädyasa** - “hunt-voice”: clicks, whistles, short calls
+- **Shilyasa** - “near-voice”: the full spoken language
 
 Both use `yasa` “sound, voice”.
 
 ## What not to do
 
 - Don’t invent a new root when compounding or a short phrase already covers it.
-- Don’t mirror English one-for-one — `qäsh` is both “heart” and “love”; `mâish` is “sleep” and “rest”.
+- Don’t mirror English one-for-one - `qäsh` is both “heart” and “love”; `mâish` is “sleep” and “rest”.
 - Don’t collide with grammar: initial `nai-` reads as a question word; `sha-`/`she-`/`shu-`/`shâ-` as the copula; `am-`/`akh-` as possessives.

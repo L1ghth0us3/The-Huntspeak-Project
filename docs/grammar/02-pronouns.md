@@ -13,7 +13,7 @@ Six personal pronouns cover you for everyday speech:
 | **tu** | you (several people) | |
 | **te** | they | |
 
-Same form for subject and object: `î vîsat su` “I see you”, `su vusat î` “you see me” — the verb vowel also changes (chapter 3).
+Same form for subject and object: `î vîsat su` “I see you”, `su vusat î` “you see me” - the verb vowel also changes (chapter 3).
 
 **The pronoun’s vowel matters.** It is copied into the verb to mark who acts. Pattern: î/tî → **î**, su/tu → **u**, se/te → **e**. Singular vs. plural rides on the pronoun itself.
 
@@ -23,8 +23,8 @@ Same form for subject and object: `î vîsat su` “I see you”, `su vusat î` 
 
 Put a prefix on the **owner’s pronoun**:
 
-- **am-** — one owner
-- **akh-** — several owners
+- **am-** - one owner
+- **akh-** - several owners
 
 | Form | Meaning |
 | --- | --- |
@@ -45,13 +45,13 @@ Possessives stand before the thing owned:
 > tale of our ancestors
 > “The tale of our ancestors.”
 
-*(akhtu and akhte follow the pattern and are still settling — fine for RP.)*
+*(akhtu and akhte follow the pattern and are still settling - fine for RP.)*
 
 ## Demonstratives
 
-- **kharau** — this
-- **kharae** — that
+- **kharau** - this
+- **kharae** - that
 
-> **Kharau hâiru sha-sil-du tiau nätum.** — “This cave is darker than the night.”
+> **Kharau hâiru sha-sil-du tiau nätum.** - “This cave is darker than the night.”
 
 In the traditional tale, `kharau` once stands where English would say “the” (`kharau sheq`). Treat that article-like use as provisional for now.

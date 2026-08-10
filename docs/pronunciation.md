@@ -9,7 +9,7 @@ Once you know these letters, you can sound out almost any Huntspeak word. Spelli
 | b | b | *bat* |
 | d | d | *dog* |
 | t | t | *top* |
-| q | k | *kit* — /k/ is always written ⟨q⟩ (`qar`, `qî`, `iqe`) |
+| q | k | *kit* - /k/ is always written ⟨q⟩ (`qar`, `qî`, `iqe`) |
 | kh | χ | throaty sound, like German *Bach* but further back |
 | h | h | *hat* |
 | s | s | *sun* |
@@ -25,13 +25,13 @@ Once you know these letters, you can sound out almost any Huntspeak word. Spelli
 
 Handy notes:
 
-- We spell /k/ as **⟨q⟩**. Bare ⟨k⟩ only shows up inside **⟨kh⟩**. Older spellings like `kin` or `ike` are outdated — write `qin`, `iqe`.
+- We spell /k/ as **⟨q⟩**. Bare ⟨k⟩ only shows up inside **⟨kh⟩**. Older spellings like `kin` or `ike` are outdated - write `qin`, `iqe`.
 - There is **no p, f, g, z, or ch**. Outside names (*Menphina*, *Zaiya*) keep their own sounds.
 - *n*, *h*, and *th* are part of normal Huntspeak even though the shortest official chart skipped them.
 
 ## Vowels
 
-Accented letters are ordinary vowels of the language — not “fancy versions” of a or i:
+Accented letters are ordinary vowels of the language - not “fancy versions” of a or i:
 
 | Written | Sound (IPA)* | As in |
 | --- | --- | --- |
@@ -53,9 +53,9 @@ Accented letters are ordinary vowels of the language — not “fancy versions�
 
 An apostrophe marks a **tiny pause between syllables** (like the break in “uh-oh”):
 
-- `i'saae` “into” — [i . saae]
+- `i'saae` “into” - [i . saae]
 - `rav'i` “thirst”, `qik'et` “hunger”
-- the command ending `-'qe` — [. ke]
+- the command ending `-'qe` - [. ke]
 
 A hyphen does the same job when grammar sticks identical vowels together: `bi-idwa` “two ears” → [bi . idʋa].
 

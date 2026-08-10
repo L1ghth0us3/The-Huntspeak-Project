@@ -38,7 +38,7 @@ Ready-to-use Huntspeak for roleplay. Start with the dialogue, then grab what you
 | **Ayar** | far / too far |
 | **Rasa** | quiet / still |
 | **Mâish** | rest / sleep |
-| **Yash!** | *hiss* — stop / watch it |
+| **Yash!** | *hiss* - stop / watch it |
 
 ## On the hunt
 
@@ -73,7 +73,7 @@ Ready-to-use Huntspeak for roleplay. Start with the dialogue, then grab what you
 
 | Huntspeak | Force |
 | --- | --- |
-| **Sha…** | tch / damn — mild |
-| **Khât!** | shit! / fuck! — strong |
+| **Sha…** | tch / damn - mild |
+| **Khât!** | shit! / fuck! - strong |
 
 A few more colorful insults and nicknames are still settling; you’ll find them in `lexicon/expansions-provisional.yaml` if you want to try them in RP.

@@ -2,7 +2,7 @@
 
 ## No plural form
 
-Nouns don’t change for number. `tye` is “animal” or “animals” — context decides.
+Nouns don’t change for number. `tye` is “animal” or “animals” - context decides.
 
 When amount matters, put it **before** the noun:
 

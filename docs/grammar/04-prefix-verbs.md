@@ -16,17 +16,17 @@ A few everyday verbs don’t use a three-consonant skeleton. Each is a **prefix 
 
 Two rules to remember:
 
-1. **No subject vowel on the prefix** — the pronoun tells you who.
+1. **No subject vowel on the prefix** - the pronoun tells you who.
 2. **They still take the tense vowel** (same V₂ system as chapter 3). For `sh-d-` “become”, *both* vowels mark tense: `shudu-` = became (past long).
 
-> **Tî vayâl.** — “We have a meeting.”
-> **Tî veyâl.** — “We had a meeting.”
-> **Tî vâyâl.** — “We will have a meeting.”
+> **Tî vayâl.** - “We have a meeting.”
+> **Tî veyâl.** - “We had a meeting.”
+> **Tî vâyâl.** - “We will have a meeting.”
 
 The copula `sh-` turns nouns and adjectives into predicates:
 
-> **Su amî qar-vu sha-shidyävu.** — “You are my best friend.” (*sha-* = present “be”)
-> **Naish amsu she-mâish?** — “How was your sleep?” (*she-* = past recent “be”)
+> **Su amî qar-vu sha-shidyävu.** - “You are my best friend.” (*sha-* = present “be”)
+> **Naish amsu she-mâish?** - “How was your sleep?” (*she-* = past recent “be”)
 
 Writing tip: hyphenate when the complement is a phrase (`sha-shidyävu`); write solid when it’s a short fused word (`shaqin`, `vaqäsh`).
 
@@ -34,23 +34,23 @@ Writing tip: hyphenate when the complement is a phrase (`sha-shidyävu`); write 
 
 **naaq** means “no”. As a prefix it negates:
 
-- **On nouns** — “-less”: `naaq-qin haqar` “queen-less groups”.
-- **On verbs** — flips the action:
+- **On nouns** - “-less”: `naaq-qin haqar` “queen-less groups”.
+- **On verbs** - flips the action:
 
-  > **Î veqash su.** — “I love you.”
-  > **Î naaq-veqash su.** — “I hate you.” (“I have no love for you”)
+  > **Î veqash su.** - “I love you.”
+  > **Î naaq-veqash su.** - “I hate you.” (“I have no love for you”)
 
 - **With irrealis:** `naaq-iqe` = “unless” (chapter 10).
 
-> Negating a plain root verb (“I do not eat”) isn’t firmly shown yet; `î naaq-lîba` is a reasonable guess — still settling.
+> Negating a plain root verb (“I do not eat”) isn’t firmly shown yet; `î naaq-lîba` is a reasonable guess - still settling.
 
 ## The imperative: -'qe
 
 Commands add **-'qe** (tiny pause: [.ke]):
 
-> **sevu'qe** — “told / commanded” (from the traditional tale)
+> **sevu'qe** - “told / commanded” (from the traditional tale)
 
-Plain orders like “Eat!” aren’t well documented yet — treat this corner gently.
+Plain orders like “Eat!” aren’t well documented yet - treat this corner gently.
 
 ## Causatives and multiple verbs
 

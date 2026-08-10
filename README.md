@@ -1,6 +1,6 @@
 # The Huntspeak Project
 
-A community home for Huntspeak — a speakable language for Miqo'te roleplay and storytelling, expanded from the small official scraps in Final Fantasy XIV.
+A community home for Huntspeak - a speakable language for Miqo'te roleplay and storytelling, expanded from the small official scraps in Final Fantasy XIV.
 
 **Read it here:** [the project site](https://l1ghth0us3.github.io/The-Huntspeak-Project/)  
 (Learn path, phrasebook, dictionary, and *The Tale of Our Ancestors*.)
@@ -36,7 +36,7 @@ Look up words in [`lexicon/`](lexicon/) (YAML) or on the [dictionary page](https
 
 ## For contributors
 
-Ideas, corrections, and new vocabulary are welcome — hang out on [Discord](https://discord.gg/bG9dGBHFtS) or see [CONTRIBUTING.md](CONTRIBUTING.md).  
+Ideas, corrections, and new vocabulary are welcome - hang out on [Discord](https://discord.gg/bG9dGBHFtS) or see [CONTRIBUTING.md](CONTRIBUTING.md).  
 How proposals become part of the language is explained in [GOVERNANCE.md](GOVERNANCE.md). Working notes live under [`development/`](development/).
 
 Words and rules are tagged **canon**, **provisional**, **proposal**, or **deprecated** so you can tell what is settled. Learner docs stick to canon and clearly marked provisional material.

@@ -1,13 +1,13 @@
 # 6. Adjectives and Comparison
 
-Adjectives sit **before** the noun (`wakh radyävu` “a young child”). To say something *is* dark, tall, or good, use the copula prefix `sh-` (`sha-sil` “is dark” — chapter 4).
+Adjectives sit **before** the noun (`wakh radyävu` “a young child”). To say something *is* dark, tall, or good, use the copula prefix `sh-` (`sha-sil` “is dark” - chapter 4).
 
 ## Comparative and superlative
 
 Two suffixes:
 
-- **-du** — comparative (“more X”, “X-er”)
-- **-vu** — superlative (“most X”, “X-est”)
+- **-du** - comparative (“more X”, “X-er”)
+- **-vu** - superlative (“most X”, “X-est”)
 
 Compare with **tiau** “than”:
 
@@ -27,7 +27,7 @@ Comparatives can also follow the verb as adverbs:
 
 For “more and more,” repeat:
 
-> **Sheq-du wa sheq-du…** — “colder and colder…”
+> **Sheq-du wa sheq-du…** - “colder and colder…”
 
 ## Making adjectives from nouns: -si
 

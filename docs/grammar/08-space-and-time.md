@@ -43,8 +43,8 @@ These sit before the noun phrase, like English prepositions. Some track **motion
 | isea | left (“to my left”) |
 | yama | right (“to my right”) |
 
-> **Î vîset däl tye yat wäwi.** — “I saw many animals in the forest.”
-> **…se vesut asu ada mithra shiä…** — “…she looked up at the holy moon…”
+> **Î vîset däl tye yat wäwi.** - “I saw many animals in the forest.”
+> **…se vesut asu ada mithra shiä…** - “…she looked up at the holy moon…”
 
 `yat` “in” also works for abstract targets: `muvat yat shiä` “trust in the moon”.
 
@@ -63,7 +63,7 @@ These sit before the noun phrase, like English prepositions. Some track **motion
 | nanaqa | at the same time |
 | shrala'i | long ago |
 
-`eshu`, `avikh`, `tarem`, and `udil` can also link whole clauses — see chapter 10.
+`eshu`, `avikh`, `tarem`, and `udil` can also link whole clauses - see chapter 10.
 
 ## Days and nights
 
@@ -75,5 +75,5 @@ Compounds with `ädi` “day” and `shiä` “moon” cover the basics (chapter
 | vayädi | next-to-day | tomorrow |
 | heyädi | behind-day | yesterday |
 | kharashiä | this-moon | tonight |
-| mîdam | — | morning (sunrise to noon) |
-| nätum | — | night (dusk to dawn) |
+| mîdam | - | morning (sunrise to noon) |
+| nätum | - | night (dusk to dawn) |

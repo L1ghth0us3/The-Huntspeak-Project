@@ -1,6 +1,6 @@
 # The Tale of Our Ancestors
 
-A short legend in Huntspeak — cold moons, a mother named Zaiya, and counsel from Menphina. This is the corrected reading text; the untouched draft is in `original.md`, and odd grammar spots are flagged in `notes.md`.
+A short legend in Huntspeak - cold moons, a mother named Zaiya, and counsel from Menphina. This is the corrected reading text; the untouched draft is in `original.md`, and odd grammar spots are flagged in `notes.md`.
 
 ## Huntspeak
 
@@ -14,7 +14,7 @@ A short legend in Huntspeak — cold moons, a mother named Zaiya, and counsel fr
 >
 > Long ago our ancestors lived in small, queen-less groups. They fought the cold, thirst and hunger every day, but we were strong already. We survived and helped the tribe. But the many moons became cold - colder and colder with every new moon. The earth and rivers were frozen over; the animals were hiding from the deadly cold. We had nothing to harvest, nothing to hunt. One of the many mothers had the name Zaiya. She feared for her tribe, which was slowly starving and freezing. One cold but clear-skied night she looked up at the full (holy) moon and prayed to Menphina. Menphina spoke to Zaiya in her mind and told her: "Trust the moon, and make a journey with your tribe."
 
-*(The last two English sentences are not translated yet — an open task.)*
+*(The last two English sentences are not translated yet - an open task.)*
 
 ## Corrections from the original draft
 
