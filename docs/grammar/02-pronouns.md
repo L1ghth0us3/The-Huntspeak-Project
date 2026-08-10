@@ -2,7 +2,7 @@
 
 ## Personal pronouns
 
-Huntspeak has six personal pronouns (official canon):
+Six personal pronouns cover you for everyday speech:
 
 | Huntspeak | Meaning | Notes |
 | --- | --- | --- |
@@ -13,18 +13,18 @@ Huntspeak has six personal pronouns (official canon):
 | **tu** | you (several people) | |
 | **te** | they | |
 
-There is no case: the same form is subject and object (`î vîsat su` "I see you", `su vîsat î` "you see me" - but see chapter 3 on how the verb's vowel changes).
+Same form for subject and object: `î vîsat su` “I see you”, `su vusat î` “you see me” — the verb vowel also changes (chapter 3).
 
-**The vowel of the pronoun matters.** Each pronoun's vowel is copied into the verb to mark who is acting (chapter 3). Notice the pattern: î/tî share **î**, su/tu share **u**, se/te share **e** - so the verb distinguishes 1st/2nd/3rd person, while singular vs. plural is carried by the pronoun itself.
+**The pronoun’s vowel matters.** It is copied into the verb to mark who acts. Pattern: î/tî → **î**, su/tu → **u**, se/te → **e**. Singular vs. plural rides on the pronoun itself.
 
-> Take care not to use **tu** for one person. Some older notes did this; the settled rule (decision D10) is `su` = one "you", `tu` = several.
+> One person is **su**, several people are **tu**. Don’t use *tu* for a single “you.”
 
 ## Possession: am- and akh-
 
-Possession is marked by a prefix on the **pronoun of the owner**:
+Put a prefix on the **owner’s pronoun**:
 
-- **am-** - singular owner
-- **akh-** - plural owner
+- **am-** — one owner
+- **akh-** — several owners
 
 | Form | Meaning |
 | --- | --- |
@@ -35,23 +35,23 @@ Possession is marked by a prefix on the **pronoun of the owner**:
 | akhtu | your (several owners) |
 | akhte | their |
 
-The possessive word stands before the thing owned, like an adjective:
+Possessives stand before the thing owned:
 
 > **Su vusat amî bi-idwa.**
 > you see my two-ear
-> "You see my (two) ears."
+> “You see my (two) ears.”
 
 > **Yasyi valir akhtî khash.**
 > tale of our ancestors
-> "The tale of our ancestors."
+> “The tale of our ancestors.”
 
-*(Of the six forms, `amî`, `amsu`, `amse`, and `akhtî` are attested in the sources; `akhtu` and `akhte` follow the pattern and are marked provisional in the lexicon.)*
+*(akhtu and akhte follow the pattern and are still settling — fine for RP.)*
 
 ## Demonstratives
 
-- **kharau** - this
-- **kharae** - that
+- **kharau** — this
+- **kharae** — that
 
-> **Kharau hâiru sha-sil-du tiau nätum.** - "This cave is darker than the night."
+> **Kharau hâiru sha-sil-du tiau nätum.** — “This cave is darker than the night.”
 
-In the traditional tale, `kharau` also appears where English would use "the" (`kharau sheq` "the cold"). This article-like use is attested once and is considered provisional.
+In the traditional tale, `kharau` once stands where English would say “the” (`kharau sheq`). Treat that article-like use as provisional for now.

@@ -1,30 +1,34 @@
 # Governance
 
+This file is for when people disagree about what “counts” as Huntspeak. Most contributors never need it day to day — start with [CONTRIBUTING.md](CONTRIBUTING.md).
+
+We keep a clear pecking order so the language doesn’t fork into five incompatible versions overnight. The game’s scraps always win; community expansion fills the rest carefully.
+
 ## Authority
 
-Huntspeak has a hierarchy of authority. When sources disagree, the higher level wins:
+When sources disagree, the higher level wins:
 
-1. **Official game material** - the in-game/official description of Huntspeak (preserved verbatim as `canon/Huntspeak-Official-Canon`). This always holds true. Everything else in the project is an expansion of it.
-2. **Project-lead rulings** - recorded in `development/decisions/`. The project lead is the final authority on everything the game does not settle.
-3. **Canon repository material** - the documented language: `docs/`, `lexicon/` entries with `status: canon`, and canonical texts.
-4. **Provisional material** - developed and usable, but subject to change.
-5. **Proposals** - not part of the language.
+1. **Official game material** — preserved verbatim in `canon/Huntspeak-Official-Canon`. Always holds.
+2. **Project-lead rulings** — recorded in `development/decisions/`.
+3. **Settled repo material** — `docs/`, lexicon entries with `status: canon`, and canonical texts.
+4. **Provisional material** — usable, may still change.
+5. **Proposals** — not part of the language yet.
 
-A contribution is **never** canon merely because it has been committed, discussed, or used in roleplay.
+A contribution is never “canon” just because it was committed, discussed, or used in roleplay.
 
-## How something becomes canon
+## How something becomes settled
 
-1. **Proposal.** Anyone may propose vocabulary, grammar, or corrections (see `CONTRIBUTING.md`). Proposals live in `development/proposals/` or in pull requests, with `status: proposal`.
-2. **Provisional adoption.** The project lead may promote a proposal to `status: provisional`. Provisional material appears in learner docs only with a clear marker, and should be tested in actual use.
-3. **Canonization.** The project lead promotes provisional material to `status: canon`. This is recorded in `CHANGELOG.md`, and in `development/decisions/` when it resolves a documented question.
-4. **Deprecation.** Superseded forms are never silently deleted: they get `status: deprecated` (or a `variants:` record on the winning entry) so historical texts remain readable.
+1. **Proposal** — anyone may suggest vocabulary, grammar, or corrections (`status: proposal`).
+2. **Provisional** — project lead may promote it for real use and testing.
+3. **Canon** — project lead settles it; noted in `CHANGELOG.md` (and a decision record when it answers a documented question).
+4. **Deprecation** — old forms stay as `deprecated` or `variants` so history remains readable.
 
-## Rules for changes to canon
+## Changing settled material
 
-- Established words and rules are not rewritten because an alternative would be "more elegant." Changes require evidence of a problem (contradiction, unlearnability, collision) and a project-lead decision.
-- Conflicts between sources are documented first (in `development/`, following the format in the audit) and decided second.
-- Anything that would alter spelling, pronunciation, meaning, morphology, or word boundaries is a **linguistic change**, not a formatting cleanup, and follows this process. Markdown formatting, typos in English prose, and file organization do not.
+- Don’t rewrite a working word because another option feels prettier. Need a real problem (contradiction, unlearnability, collision) and a lead decision.
+- Document conflicts in `development/` first; decide second.
+- Spelling, pronunciation, meaning, morphology, and word boundaries are **language changes**. Markdown tidy-ups are not.
 
 ## Decision records
 
-Each project-lead decision gets an entry under `development/decisions/`, recording the question, evidence, options, ruling, and affected material. Decision records are append-only history: a reversed decision gets a new record, not an edit.
+Each lead decision lives under `development/decisions/` (question, evidence, options, ruling, what it touched). History is append-only: reversing a ruling means a new record, not an edit.

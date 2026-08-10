@@ -1,6 +1,6 @@
 # Pronunciation and Spelling
 
-Huntspeak is written with the Latin alphabet plus three accented vowels (â, ä, î). Spelling is regular: every letter (or digraph) always stands for the same sound.
+Once you know these letters, you can sound out almost any Huntspeak word. Spelling is regular: each letter (or digraph) always means the same sound. We write with the Latin alphabet plus three accented vowels: **â**, **ä**, **î**.
 
 ## Consonants
 
@@ -9,8 +9,8 @@ Huntspeak is written with the Latin alphabet plus three accented vowels (â, ä,
 | b | b | *bat* |
 | d | d | *dog* |
 | t | t | *top* |
-| q | k | *kit* - /k/ is always written ⟨q⟩ in Huntspeak words (`qar`, `qî`, `iqe`) |
-| kh | χ | throaty, guttural sound; like clearing the throat (German *Bach*, but further back) |
+| q | k | *kit* — /k/ is always written ⟨q⟩ (`qar`, `qî`, `iqe`) |
+| kh | χ | throaty sound, like German *Bach* but further back |
 | h | h | *hat* |
 | s | s | *sun* |
 | sh | ʃ | *ship* |
@@ -23,15 +23,15 @@ Huntspeak is written with the Latin alphabet plus three accented vowels (â, ä,
 | r | r | **trilled**, as in Spanish *perro* |
 | y | j | *yew* |
 
-Notes:
+Handy notes:
 
-- **⟨q⟩ vs ⟨k⟩:** the official material lists both letters, but by project decision (D3) the sound /k/ is always spelled ⟨q⟩; bare ⟨k⟩ appears only inside the digraph ⟨kh⟩. If you see ⟨k⟩ for /k/ in older material (`kin`, `ike`, `kik'et`), it is a superseded spelling.
-- The official consonant list omits n, h, and th, but its own vocabulary uses n (`naaq`, `nätum`), and the established word stock needs all three; they are treated as fully part of the inventory.
-- There is **no p, f, g, z, or ch** in Huntspeak. (Proper names from outside the language, like *Menphina* or *Zaiya*, keep their own sounds.)
+- We spell /k/ as **⟨q⟩**. Bare ⟨k⟩ only shows up inside **⟨kh⟩**. Older spellings like `kin` or `ike` are outdated — write `qin`, `iqe`.
+- There is **no p, f, g, z, or ch**. Outside names (*Menphina*, *Zaiya*) keep their own sounds.
+- *n*, *h*, and *th* are part of normal Huntspeak even though the shortest official chart skipped them.
 
 ## Vowels
 
-The official material defines the vowels with English example words; the accented letters are ordinary vowels of the language, not modifications of a/i:
+Accented letters are ordinary vowels of the language — not “fancy versions” of a or i:
 
 | Written | Sound (IPA)* | As in |
 | --- | --- | --- |
@@ -43,29 +43,27 @@ The official material defines the vowels with English example words; the accente
 | u | u | *tool* |
 | â | ʌ | *lull* |
 
-\* The official source's own IPA key uses ⟨i⟩ and ⟨ɪ⟩ the other way around from standard IPA; the example words *pit*/*meat* are the reliable guide, and this table follows them.
+\* Trust the English example words. Official IPA labels for î/i are swapped relative to standard IPA.
 
-- **Doubled vowels are held longer:** `naaq` "no", `nääq` "last", `qaal` "onto", `eene` "later".
-- **/o/ is marginal.** It appears in the official vowel chart's absence and in only one established word (`shiroth` "journey"). Avoid it in new coinages until its status is settled.
-- Vowels combine freely into diphthongs: `ai` (`tai` "foot"), `au` (`kharau` "this"), `ei` (`weid` "earth"), `iä` (`shiä` "moon"), `âi` (`mâish` "sleep"), `ui` (`uisa` "over"), and others. A full phonotactic description is still an open task (see `development/gaps.md`).
+- **Doubled vowels are held longer:** `naaq` “no”, `nääq` “last”, `qaal` “onto”, `eene` “later”.
+- **/o/** barely exists (`shiroth` “journey”). Don’t invent new *o*-words until that settles.
+- Vowels combine into diphthongs: `ai` (`tai` “foot”), `au` (`kharau` “this”), `ei` (`weid` “earth”), `iä` (`shiä` “moon”), and others.
 
 ## The apostrophe
 
-An apostrophe marks a **break between syllables** - a tiny pause, as between the words of "uh-oh":
+An apostrophe marks a **tiny pause between syllables** (like the break in “uh-oh”):
 
-- `i'saae` "into" - [i . saae]
-- `rav'i` "thirst", `qik'et` "hunger", `q'rysh` "frozen"
-- the imperative ending `-'qe`: [. ke]
+- `i'saae` “into” — [i . saae]
+- `rav'i` “thirst”, `qik'et` “hunger”
+- the command ending `-'qe` — [. ke]
 
-A hyphen is also used where grammar glues words together and two identical vowels would collide: `bi-idwa` "two ears" is pronounced with the same small pause, [bi . idʋa].
+A hyphen does the same job when grammar sticks identical vowels together: `bi-idwa` “two ears” → [bi . idʋa].
 
 ## Stress
 
-**Stress always falls on the first syllable** of the word: **SHI**laqar, **KHA**rau, **NÄ**tum.
+**Stress always falls on the first syllable:** **SHI**laqar, **KHA**rau, **NÄ**tum.
 
-How stress behaves on grammatically prefixed verbs (like `danenad` "cause to move") is not yet formally settled; in practice, first-syllable stress is applied there too.
-
-## Quick reading examples
+## Quick reading practice
 
 | Written | Pronounced | Meaning |
 | --- | --- | --- |

@@ -1,10 +1,10 @@
 # Changelog
 
-Meaningful changes to the Huntspeak language itself. Repository housekeeping is not recorded here.
+Meaningful changes to Huntspeak itself. Repo tidy-ups aren’t listed here.
 
 ## 2026-08-09 - Initial consolidation
 
-Based on the repository audit (`development/AUDIT.md`) and project-lead decisions D1–D10 (`development/decisions/2026-08-09-initial-decisions.md`):
+From the audit and lead decisions D1–D10:
 
 ### Added
 - Official-canon vocabulary integrated: `Shîmakh` "hello", `Râdakh` "farewell", `Shakh` (informal greeting/parting), `Qar mîdam` / `Qar nätum` / `Qar yâl` greeting formulas, `î veqash su` "I love you", `î naaq-veqash su` "I hate you".

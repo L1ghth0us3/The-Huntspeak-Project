@@ -2,7 +2,7 @@
 
 ## Positionals
 
-Positionals stand before the noun phrase they locate, like English prepositions. They divide naturally into **motion** and **position** words.
+These sit before the noun phrase, like English prepositions. Some track **motion**, others **position**.
 
 ### Motion
 
@@ -40,13 +40,13 @@ Positionals stand before the noun phrase they locate, like English prepositions.
 | shila | near |
 | ayar | far |
 | uan | from |
-| isea | left ("to my left") |
-| yama | right ("to my right") |
+| isea | left (“to my left”) |
+| yama | right (“to my right”) |
 
-> **Î vîset däl tye yat wäwi.** - "I saw many animals in the forest."
-> **…se vesut asu ada mithra shiä…** - "…she looked up at the holy moon…" (*ada* "to/at" relates one thing to another)
+> **Î vîset däl tye yat wäwi.** — “I saw many animals in the forest.”
+> **…se vesut asu ada mithra shiä…** — “…she looked up at the holy moon…”
 
-Note `yat` "in" extends to abstract targets: `muvat yat shiä` "trust in the moon".
+`yat` “in” also works for abstract targets: `muvat yat shiä` “trust in the moon”.
 
 ## Temporals
 
@@ -59,15 +59,15 @@ Note `yat` "in" extends to abstract targets: `muvat yat shiä` "trust in the moo
 | eshu | while |
 | tarem | before |
 | udil | then, next |
-| îtâsh | still ("I am still eating") |
+| îtâsh | still (“I am still eating”) |
 | nanaqa | at the same time |
 | shrala'i | long ago |
 
-`eshu`, `avikh`, `tarem`, and `udil` also link whole clauses, see chapter 10. The nuance between `eshu` "while", `ashad` "during", and `nanaqa` "at the same time" is not yet formally defined; attested use has `eshu`/`ashad` before phrases or clauses and `nanaqa` standing alone.
+`eshu`, `avikh`, `tarem`, and `udil` can also link whole clauses — see chapter 10.
 
 ## Days and nights
 
-Compounds with `ädi` "day" and `shiä` "moon" cover the calendar basics (chapter 9 explains the compounding):
+Compounds with `ädi` “day” and `shiä` “moon” cover the basics (chapter 9 explains compounding):
 
 | Huntspeak | Literally | Meaning |
 | --- | --- | --- |
@@ -75,5 +75,5 @@ Compounds with `ädi` "day" and `shiä` "moon" cover the calendar basics (chapte
 | vayädi | next-to-day | tomorrow |
 | heyädi | behind-day | yesterday |
 | kharashiä | this-moon | tonight |
-| mîdam | - | morning (sunrise to noon) |
-| nätum | - | night (dusk to dawn) |
+| mîdam | — | morning (sunrise to noon) |
+| nätum | — | night (dusk to dawn) |

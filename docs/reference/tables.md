@@ -1,6 +1,6 @@
 # Reference Tables
 
-Compact paradigms for quick lookup. Explanations live in the grammar chapters.
+Quick lookup while you write or speak. Explanations live in the grammar chapters.
 
 ## Pronouns and possessives
 
@@ -13,7 +13,7 @@ Compact paradigms for quick lookup. Explanations live in the grammar chapters.
 | you (pl.) | tu | u | akhtu* |
 | they | te | e | akhte* |
 
-\* unattested, follows the pattern (provisional)
+\* still settling — pattern-based (fine for RP)
 
 ## Tense/aspect vowel (V₂)
 
@@ -24,17 +24,15 @@ Compact paradigms for quick lookup. Explanations live in the grammar chapters.
 | Past long | -u- | -ua- |
 | Future | -â- | -âa- |
 
-Irrealis: **iqe** before the verb (verb keeps normal V₂). Negation: **naaq-** prefixed to the verb.
+Irrealis: **iqe** before the verb (verb keeps normal V₂). Negation: **naaq-** on the verb.
 
-## Full paradigm: v-d-b "to write"
+## Full paradigm: v-d-b “to write”
 
 | | Present | Past recent | Past long | Future |
 | --- | --- | --- | --- | --- |
 | î / tî | vîdab | vîdeb | vîdub | vîdâb |
 | su / tu | vudab | vudeb | vudub | vudâb |
 | se / te | vedab | vedeb | vedub | vedâb |
-
-*(Open question D11: official canon's list writes the plural present forms with -e-.)*
 
 ## Prefix verbs
 
@@ -48,17 +46,17 @@ Irrealis: **iqe** before the verb (verb keeps normal V₂). Negation: **naaq-** 
 | s- | can | sa- | se- | su- | sâ- |
 | sh-d- | become | shada- | shede- | shudu- | shâdâ- |
 
-Prefix verbs never carry a subject vowel (D8). Suffixes: imperative **-'qe**, auxiliary **-ba**.
+Prefix verbs do **not** take a subject vowel. Handy endings: imperative **-'qe**, auxiliary **-ba**.
 
 ## Adjective morphology
 
 | Operation | Form | Example |
 | --- | --- | --- |
-| comparative | -du | sil-du "darker" |
-| superlative | -vu | qar-vu "best" |
-| than | tiau | sil-du tiau nätum "darker than the night" |
-| noun → adjective | -si | ikhel-si "deadly" |
-| related-to adjective | + valir | tyevalir "animalistic" |
+| comparative | -du | sil-du “darker” |
+| superlative | -vu | qar-vu “best” |
+| than | tiau | sil-du tiau nätum “darker than the night” |
+| noun → adjective | -si | ikhel-si “deadly” |
+| related-to adjective | + valir | tyevalir “animalistic” |
 
 ## Question words
 
@@ -68,7 +66,7 @@ Order: **Question word + Subject + (Object) + Verb.**
 
 ## Numbers
 
-u *1* · bi *2* · ta *3* · qu *4* · ha *5* - higher numbers: open gap. Ordinal-edge words: rab *first*, nääq *last*.
+u *1* · bi *2* · ta *3* · qu *4* · ha *5* — higher numbers still open. Ends of a sequence: rab *first*, nääq *last*.
 
 ## Clause connectives
 

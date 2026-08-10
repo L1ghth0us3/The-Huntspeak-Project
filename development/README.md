@@ -1,13 +1,15 @@
 # Development
 
-Work in progress and project history - **nothing in this directory is learner-facing, and nothing here is canon by virtue of being here.**
+Working notes for maintainers — **not** the place to start learning.
 
-| Path | Contents |
+| Path | What’s here |
 | --- | --- |
-| `AUDIT.md` | The 2026-08-09 repository audit: full inventory, conflict report, and the reasoning behind the current structure |
-| `decisions/` | Project-lead decision records (append-only), the authority trail for every change to canon |
-| `proposals/` | Proposed material awaiting a ruling (currently: the English-only proverbs) |
-| `gaps.md` | Known missing/incomplete parts of the language - read before proposing new words |
-| `archive/` | Local-only private working sources (gitignored). See [`archive/README.md`](archive/README.md). Official game material lives in [`canon/`](../canon/). |
+| `AUDIT.md` | Snapshot of how the repo was consolidated |
+| `decisions/` | Lead rulings (append-only history) |
+| `proposals/` | Ideas waiting for a look |
+| `gaps.md` | Known holes — read before coining wildly |
+| `archive/` | Local-only private sources (gitignored) |
 
-Provisional vocabulary is *not* stored here - it lives in the lexicon with `status: provisional`, so it stays searchable alongside canon.
+Provisional vocabulary lives in the lexicon with `status: provisional`, not here — so it stays searchable next to settled words.
+
+Learners: start at the [site](https://l1ghth0us3.github.io/The-Huntspeak-Project/) or [docs/introduction.md](../docs/introduction.md).

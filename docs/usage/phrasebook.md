@@ -1,8 +1,19 @@
 # Phrasebook
 
-Ready-to-use Huntspeak for roleplay. Everything here is canon unless marked otherwise; the provisional expansion set (insults, more swears, nicknames) lives in `lexicon/expansions-provisional.yaml` until confirmed.
+Ready-to-use Huntspeak for roleplay. Start with the dialogue, then grab what you need.
 
-## Greetings and partings (official canon)
+## A small exchange
+
+> - **Shîmakh! Naish su buvar?**
+> - Hello! How are you?
+>
+> - **Qar. Su?**
+> - Good. You?
+>
+> - **Mâish… Râdakh, shidyävu.**
+> - (I need) rest… Farewell, friend.
+
+## Greetings and partings
 
 | Huntspeak | Meaning |
 | --- | --- |
@@ -11,7 +22,7 @@ Ready-to-use Huntspeak for roleplay. Everything here is canon unless marked othe
 | **Shakh** | hi / bye (informal) |
 | **Qar mîdam** | Good morning |
 | **Qar nätum** | Good night / evening |
-| **Qar yâl** | "Good meeting" - well met |
+| **Qar yâl** | Well met (“good meeting”) |
 
 ## Essentials
 
@@ -20,14 +31,14 @@ Ready-to-use Huntspeak for roleplay. Everything here is canon unless marked othe
 | **Qî** | yes |
 | **Naaq** | no / absolutely not |
 | **Qar** | good / fine / alright |
-| **Tey** | bad / something's wrong |
+| **Tey** | bad / something’s wrong |
 | **Itâ** | now |
 | **Eene** | later |
 | **Shila** | near / stay close |
 | **Ayar** | far / too far |
 | **Rasa** | quiet / still |
 | **Mâish** | rest / sleep |
-| **Yash!** | *hiss* - stop / watch it |
+| **Yash!** | *hiss* — stop / watch it |
 
 ## On the hunt
 
@@ -42,10 +53,10 @@ Ready-to-use Huntspeak for roleplay. Everything here is canon unless marked othe
 
 | Huntspeak | Meaning |
 | --- | --- |
-| **Î veqash su.** | I love you. *(official canon; literally "I have love for you")* |
-| **Î naaq-veqash su.** | I hate you. *(literally "I have no love for you")* |
+| **Î veqash su.** | I love you. *(literally “I have love for you”)* |
+| **Î naaq-veqash su.** | I hate you. *(literally “I have no love for you”)* |
 | **Qäsh** | dear / beloved (as an address) |
-| **Shidyävu** | friend (literally "near-person") |
+| **Shidyävu** | friend (literally “near-person”) |
 
 ## Questions
 
@@ -58,22 +69,11 @@ Ready-to-use Huntspeak for roleplay. Everything here is canon unless marked othe
 | **Naisa sha-kharau?** | Who is this? |
 | **Naish amsu she-mâish?** | How was your sleep? |
 
-## Swearing (accepted)
+## Swearing
 
 | Huntspeak | Force |
 | --- | --- |
-| **Sha…** | tch / damn - mild irritation |
-| **Khât!** | shit! / fuck! - strong |
+| **Sha…** | tch / damn — mild |
+| **Khât!** | shit! / fuck! — strong |
 
-More curse words exist as provisional proposals, see `lexicon/expansions-provisional.yaml`.
-
-## Small dialogue
-
-> - **Shîmakh! Naish su buvar?**
-> - Hello! How are you?
->
-> - **Qar. Su?**
-> - Good. You?
->
-> - **Mâish… Râdakh, shidyävu.**
-> - (I need) rest… Farewell, friend.
+A few more colorful insults and nicknames are still settling; you’ll find them in `lexicon/expansions-provisional.yaml` if you want to try them in RP.

@@ -1,16 +1,16 @@
 # 9. Word Formation
 
-Huntspeak prefers building new words from existing material over coining new roots. Contributors: read this chapter before proposing vocabulary.
+Huntspeak likes building new words from pieces you already know. Before inventing a brand-new root, check whether a compound or derivation will do.
 
 ## Compounding
 
-Compounds put the **modifier first, head last** - a `shilaqar` (near-group) is a kind of group, a `wäwitul` (forest-piece) is a piece of forest:
+**Modifier first, head last** — a `shilaqar` (near-group) is a kind of group; a `wäwitul` (forest-piece) is a piece of forest:
 
 | Compound | Parts | Meaning |
 | --- | --- | --- |
 | shilaqar | shila + haqar (near + group) | tribe |
 | shidyävu | shila + tyävu (near + person) | friend |
-| käinaqar → **qäinaqar** | qäin + haqar (mother + group) | family |
+| qäinaqar | qäin + haqar (mother + group) | family |
 | wäwitul | wäwi + tul (forest + piece) | tree |
 | nälitul | näli + tul (mind + piece) | thought |
 | shiätul | shiä + tul (moon + piece) | shooting star |
@@ -21,37 +21,37 @@ Compounds put the **modifier first, head last** - a `shilaqar` (near-group) is a
 
 ## Contraction in compounds
 
-Compounds compress at the seam. The attested patterns:
+Compounds often compress at the seam. Patterns you’ll see:
 
-- **tyävu "person" → -dyävu:** `radyävu` "child" (small-person), `shidyävu` "friend" (near-person)
-- **Final syllables of the modifier drop:** `shila` → `shi-`/`shid-`, `heidu` → `he-` (`heyädi` "yesterday"), `kharau` → `khara-` (`kharashiä`), `haqar` → `-aqar`/`-qar`
-- **naaq "no" → n(i)-** in `nilaqar` "outsider" (from `naaq-shilaqar`; provisional)
+- **tyävu “person” → -dyävu:** `radyävu` “child”, `shidyävu` “friend”
+- **Modifier shortens:** `shila` → `shi-`/`shid-`, `heidu` → `he-` (`heyädi`), `kharau` → `khara-`, `haqar` → `-aqar`/`-qar`
+- **naaq “no” → n(i)-** in `nilaqar` “outsider” (from `naaq-shilaqar`; still settling)
 
-These contractions are conventional, not automatic - new compounds should imitate existing ones and document their derivation.
+Copy existing compounds when you coin; don’t assume every shortening is automatic.
 
 ## Derivational suffixes
 
-- **-si** (noun → adjective): `ikhel-si` "deadly" (chapter 6)
-- **valir** (related-to adjectives): `tyevalir` "animalistic" (chapter 6)
-- **-tul** ("piece of"): productive-looking in `wäwitul`, `nälitul`, `shiätul`
+- **-si** (noun → adjective): `ikhel-si` “deadly” (chapter 6)
+- **valir** (related-to adjectives): `tyevalir` “animalistic” (chapter 6)
+- **-tul** (“piece of”): `wäwitul`, `nälitul`, `shiätul`
 
 ## The privative naaq-
 
-`naaq-` on a noun means "without, -less": `naaq-qin haqar` "queen-less groups". Full negation uses of `naaq-` are in chapter 4.
+On a noun, `naaq-` means “without, -less”: `naaq-qin haqar` “queen-less groups”. Verb negation is in chapter 4.
 
-Related fixed words: `nainas` "without" (naaq + inas "with"), `naaq-iqe` "unless" (chapter 10).
+Related: `nainas` “without”, `naaq-iqe` “unless” (chapter 10).
 
-## The names of the language
+## Names for the language itself
 
-Two provisional self-names, matching the official description of Huntspeak's two registers:
+Two useful labels (still settling) match the two sides of Huntspeak:
 
-- **Khiädyasa** - "hunt-voice": the hunting signal register (clicks, whistles, calls)
-- **Shilyasa** - "tribe-voice" (near/tribe + voice): the full spoken language
+- **Khiädyasa** — “hunt-voice”: clicks, whistles, short calls
+- **Shilyasa** — “near-voice”: the full spoken language
 
-Both are compounds with `yasa` "sound, voice".
+Both use `yasa` “sound, voice”.
 
-## What NOT to do
+## What not to do
 
-- Don't coin a new root when derivation, compounding, a grammatical construction, or plain circumlocution covers the meaning.
-- Don't create a Huntspeak word for every English word - Huntspeak draws its own semantic boundaries (e.g. `qäsh` covers both "heart" and "love"; `mâish` covers "sleep" and "rest").
-- Don't build words that collide with grammatical morphemes: initial `nai-` reads as a question word, `sha-`/`she-`/`shu-`/`shâ-` as the copula, `am-`/`akh-` as possessives.
+- Don’t invent a new root when compounding or a short phrase already covers it.
+- Don’t mirror English one-for-one — `qäsh` is both “heart” and “love”; `mâish` is “sleep” and “rest”.
+- Don’t collide with grammar: initial `nai-` reads as a question word; `sha-`/`she-`/`shu-`/`shâ-` as the copula; `am-`/`akh-` as possessives.

@@ -1,42 +1,53 @@
-# The Huntspeak Project
+# Huntspeak
 
-Huntspeak is a community-developed constructed language inspired by the Miqo'te of **Final Fantasy XIV**, in particular the tribes of the Moon. It builds on the small amount of official in-game material and expands it into a full, speakable language for roleplay and storytelling.
+A community-built language for Miqo'te roleplay and storytelling — expanded from the small official scraps in Final Fantasy XIV.
 
-> **Disclaimer:** This is a fan project. Except where a source is explicitly marked as official game material (preserved verbatim under [`canon/`](canon/) and cited throughout the docs), nothing here is Square Enix canon. FINAL FANTASY XIV © SQUARE ENIX.
+**Read it here:** [Huntspeak site](https://l1ghth0us3.github.io/The-Huntspeak-Project/)  
+(Learn path, phrasebook, dictionary, and *The Tale of Our Ancestors*.)
 
-## Start here
+> Fan project. Official game wording lives in [`canon/`](canon/). Everything else is community expansion. FINAL FANTASY XIV © SQUARE ENIX.
 
-If you want to **learn Huntspeak**, read the docs in order:
+## Hear it
+
+| Huntspeak | Meaning |
+| --- | --- |
+| **Shîmakh!** | Hello! |
+| **Râdakh!** | Farewell! |
+| **Qar yâl** | Well met |
+| **Naish su buvar?** | How are you doing? |
+| **Î veqash su.** | I love you. |
+| **Râdakh, shidyävu.** | Farewell, friend. |
+
+More ready-to-use lines: [phrasebook](docs/usage/phrasebook.md) · [on the site](https://l1ghth0us3.github.io/The-Huntspeak-Project/phrasebook/)
+
+## Learn from the repo
+
+If you prefer the files themselves:
 
 1. [What Huntspeak is](docs/introduction.md)
-2. [Pronunciation and spelling](docs/pronunciation.md)
-3. [Grammar](docs/grammar/) - numbered chapters, from basic sentences to clause linking
-4. [Phrasebook](docs/usage/phrasebook.md) - greetings and ready-to-use RP phrases
-5. [Reference tables](docs/reference/tables.md) - compact paradigms for quick lookup
+2. [Sounds and spelling](docs/pronunciation.md)
+3. [Grammar](docs/grammar/) (chapters in order)
+4. [Phrasebook](docs/usage/phrasebook.md)
+5. [Quick tables](docs/reference/tables.md)
 
-If you want to **look up a word**, the authoritative vocabulary lives in [`lexicon/`](lexicon/) as structured YAML files (see [`lexicon/SCHEMA.md`](lexicon/SCHEMA.md)).
+Look up words in [`lexicon/`](lexicon/) (YAML) or on the [dictionary page](https://l1ghth0us3.github.io/The-Huntspeak-Project/dictionary/).
 
-## Repository map
+## For contributors
 
-| Path | Contents |
+Ideas, corrections, and new vocabulary are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).  
+How proposals become part of the language is explained in [GOVERNANCE.md](GOVERNANCE.md). Working notes live under [`development/`](development/).
+
+Words and rules are tagged **canon**, **provisional**, **proposal**, or **deprecated** so you can tell what is settled. Learner docs stick to canon and clearly marked provisional material.
+
+## What’s in the folders
+
+| Path | What’s there |
 | --- | --- |
-| `canon/` | Official in-game Huntspeak material (highest authority, do not edit) |
-| `docs/` | Learner documentation: introduction, pronunciation, grammar chapters, usage guides, reference tables |
-| `lexicon/` | The authoritative vocabulary, as structured YAML with per-entry status and source tracking |
-| `examples/` | Curated, glossed example sentences |
-| `texts/` | Long-form Huntspeak texts (currently: *The Tale of Our Ancestors*) |
-| `development/` | Work in progress: the audit, decision records, proposals, and known gaps |
-| `CONTRIBUTING.md` | How to report problems and propose vocabulary or grammar |
-| `GOVERNANCE.md` | How proposals become accepted Huntspeak |
-| `CHANGELOG.md` | Meaningful changes to the language itself |
-
-## Status levels
-
-Every word and rule in this repository carries one of these statuses:
-
-- **canon** - settled Huntspeak (official game material, or accepted by the project lead)
-- **provisional** - usable, but not yet confirmed; may change
-- **proposal** - suggested, not part of the language yet
-- **deprecated** - superseded; kept for the historical record
-
-Learner docs present canon and clearly-marked provisional material only. Everything experimental lives under `development/`.
+| `site/` | The public learning site (Astro) |
+| `docs/` | Introduction, pronunciation, grammar, phrasebook, tables |
+| `lexicon/` | Vocabulary in YAML |
+| `texts/` | Longer Huntspeak texts |
+| `examples/` | Glossed example sentences |
+| `canon/` | Official in-game material (do not edit) |
+| `development/` | Decisions, gaps, proposals |
+| `CHANGELOG.md` | Meaningful changes to the language |

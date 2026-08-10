@@ -1,3 +1,8 @@
+# Site build output
+site/dist/
+site/.astro/
+site/node_modules/
+
 # Private working sources - not published with the repository.
 # See development/archive/README.md for how lexicon source: keys map to these files.
 development/archive/Huntspeak.md

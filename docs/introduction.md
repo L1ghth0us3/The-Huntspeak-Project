@@ -1,37 +1,35 @@
 # What Huntspeak Is
 
-Huntspeak is the language of the Miqo'te hunting tribes of Eorzea, as imagined by this fan project on top of the small amount of official material Final Fantasy XIV provides.
+Huntspeak is the hunting language of the Miqo'te — something you can learn and use for roleplay and stories. Final Fantasy XIV only gives us a small official sketch; this project grows that sketch into a full spoken language.
 
-## The official picture
+## What the game tells us
 
-The game establishes this much (preserved verbatim in `canon/Huntspeak-Official-Canon`):
+The official material (kept in `canon/`) says roughly this:
 
-- Huntspeak **varies between the two tribes**, the Seekers of the Sun and the Keepers of the Moon, "on either reverent side of the Sun and Moon."
-- It **ranges from tongue clicks and whistles** (used to avoid distracting or scaring prey) **to a full guttural language**.
-- Only a few tribes still use full Huntspeak after the migration of the Fifth Umbral Era, but most Miqo'te retain a basic understanding of it, even generations raised with the Common tongue.
-- The official material also fixes the sound inventory's core, the verb system (consonantal roots), basic word order, the pronouns, and a handful of words and phrases.
+- Huntspeak **differs** between Seekers of the Sun and Keepers of the Moon.
+- It **ranges** from tongue clicks and whistles (so you don’t spook prey) **to a full guttural language**.
+- After the Fifth Umbral Era migration, only a few tribes still use the full tongue — but most Miqo'te still understand the basics, even if they grew up with the Common tongue.
+- The game also fixes the core sound set, the idea of consonantal verb roots, basic word order, the pronouns, and a handful of words and phrases.
 
-Everything else in this repository is fan expansion of that foundation, developed primarily from the Moon Miqo'te (Keepers) perspective. Where the game speaks, the game wins; see `GOVERNANCE.md`.
+Everything else here is community expansion, written mainly from a Moon / Keeper angle. Where the game speaks, the game wins.
 
-## The two faces of the language
+## Two sides of the language
 
-Following the official description, this project distinguishes (provisionally) between:
+It helps to think of two faces (these names are still settling — fine for RP):
 
-- **Khiädyasa** - "hunt-voice": the practical signalling register of clicks, whistles, and minimal calls used on the hunt.
-- **Shilyasa** - "tribe-voice" (literally "near-voice"): the full spoken language documented in these files.
+- **Khiädyasa** — “hunt-voice”: clicks, whistles, and short calls on the hunt.
+- **Shilyasa** — “near-voice” / tribe-voice: the full spoken language these lessons teach.
 
-These names and the exact boundary between the registers are still provisional; the grammar documented here is the full spoken language.
+## What kind of language you’ll learn
 
-## What kind of language it is
+- **Sounds:** a compact set with a throaty *kh* (/χ/), a trilled *r*, and no *p*, *f*, *g*, or *z*. Stress falls on the first syllable.
+- **Verbs** build on **consonant roots** (often three letters, like `v-d-b` “to write”). The vowels between them tell you *who* acts and *when*. A few everyday verbs (“be”, “have”, “do”, “hunt”…) work as prefixes instead.
+- **Word order** is Subject–Verb–Object — like English.
+- **Nouns don’t pluralize.** You show number with numerals and words like “many.”
+- **Compounds** are common: `shilaqar` “tribe” is literally “near-group”; `layädi` “today” is “on-day.”
 
-In brief, each of these is explained properly in the grammar chapters:
+## How to use these docs
 
-- **Sounds:** a compact inventory with guttural /χ/ (written ⟨kh⟩), a trilled r, and no p, f, g, or z. Stress always falls on the first syllable.
-- **Verbs** are built on **consonantal roots** (usually three consonants, like `v-d-b` "to write"); the vowels slotted between them tell you *who* acts and *when*. A small set of very common verbs ("be", "have", "do", "hunt"…) work as prefixes instead.
-- **Word order** is Subject–Verb–Object.
-- **Nouns have no plural form** - number is expressed with numerals and quantifiers.
-- **Words grow by compounding:** `shilaqar` "tribe" is literally "near-group"; `layädi` "today" is "on-day".
+Start with [pronunciation](pronunciation.md), then the numbered [grammar](grammar/) chapters. The [phrasebook](usage/phrasebook.md) gets you speaking quickly; [quick tables](reference/tables.md) are for lookup.
 
-## How to learn from these docs
-
-Read `pronunciation.md` first, then the numbered chapters in `grammar/` in order. The `usage/phrasebook.md` gives you working phrases immediately; `reference/tables.md` collects every paradigm in one place. Anything marked **provisional** is usable in roleplay but may still change; anything in `development/` is not the language yet.
+Anything marked **provisional** is fine to use in roleplay but may still change. Ideas that aren’t part of the language yet live under `development/` in the repository.
