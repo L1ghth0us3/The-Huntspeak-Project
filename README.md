@@ -1,8 +1,8 @@
-# Huntspeak
+# The Huntspeak Project
 
-A community-built language for Miqo'te roleplay and storytelling — expanded from the small official scraps in Final Fantasy XIV.
+A community home for Huntspeak — a speakable language for Miqo'te roleplay and storytelling, expanded from the small official scraps in Final Fantasy XIV.
 
-**Read it here:** [Huntspeak site](https://l1ghth0us3.github.io/The-Huntspeak-Project/)  
+**Read it here:** [the project site](https://l1ghth0us3.github.io/The-Huntspeak-Project/)  
 (Learn path, phrasebook, dictionary, and *The Tale of Our Ancestors*.)
 
 > Fan project. Official game wording lives in [`canon/`](canon/). Everything else is community expansion. FINAL FANTASY XIV © SQUARE ENIX.

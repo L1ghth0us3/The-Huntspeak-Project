@@ -1,4 +1,4 @@
-# Contributing to Huntspeak
+# Contributing to The Huntspeak Project
 
 Glad you’re here. Vocabulary ideas, clearer examples, translations, bug reports — all welcome.
 

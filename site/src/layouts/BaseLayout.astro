@@ -12,11 +12,12 @@ interface Props {
 
 const {
   title,
-  description = 'Learn Huntspeak — a community language inspired by the Miqo\'te of Final Fantasy XIV.',
+  description = 'The Huntspeak Project — learn Huntspeak, a community language inspired by the Miqo\'te of Final Fantasy XIV.',
   current,
 } = Astro.props;
 
-const fullTitle = title === 'Huntspeak' ? title : `${title} · Huntspeak`;
+const fullTitle =
+  title === 'The Huntspeak Project' ? title : `${title} · The Huntspeak Project`;
 ---
 
 <!doctype html>

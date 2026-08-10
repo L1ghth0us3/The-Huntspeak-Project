@@ -292,11 +292,13 @@ p {
 .brand {
   font-family: var(--font-display);
   font-weight: 700;
-  font-size: 1.35rem;
+  font-size: clamp(0.95rem, 2.4vw, 1.25rem);
   color: var(--moon);
   text-decoration: none;
   letter-spacing: -0.01em;
   text-shadow: 0 0 18px rgba(242, 246, 251, 0.25);
+  line-height: 1.15;
+  flex: 0 1 auto;
 }
 
 .brand:hover {
@@ -388,6 +390,14 @@ p {
 
 .hero__brand {
   margin: 0 0 0.75rem;
+  max-width: 14ch;
+  font-size: clamp(2.35rem, 7vw, 4.1rem);
+}
+
+@media (min-width: 720px) {
+  .hero__brand {
+    max-width: none;
+  }
 }
 
 .hero__lead {
