@@ -37,6 +37,7 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: clip;
 }
 
 body {
@@ -120,6 +121,14 @@ p {
   width: min(100% - 2 * var(--space), var(--wide));
   margin-inline: auto;
   padding-block: 1.5rem 4rem;
+}
+
+/* Home hero breaks out of the content column for a full-bleed night sky */
+.site-main:has(> .hero) {
+  width: 100%;
+  max-width: none;
+  margin-inline: 0;
+  padding-block: 0;
 }
 
 .prose {
@@ -338,22 +347,40 @@ p {
   margin-inline: auto;
 }
 
-/* Hero — moonlit clearing */
+/* Hero - moonlit clearing (full-bleed sky, constrained copy) */
 .hero {
   position: relative;
   min-height: min(88vh, 46rem);
   display: grid;
   align-content: end;
+  width: 100%;
   padding: 4rem 0 3rem;
   animation: hero-in 0.9s ease both;
   isolation: isolate;
 }
 
+.hero__sky {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: -1;
+  overflow: visible;
+}
+
+.hero__sky::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse 48rem 28rem at 78% 12%, rgba(242, 246, 251, 0.2), transparent 70%),
+    radial-gradient(ellipse 36rem 24rem at 10% 70%, rgba(111, 154, 134, 0.12), transparent 68%);
+}
+
 .hero__moon {
   position: absolute;
-  top: clamp(0.5rem, 4vh, 2.5rem);
-  right: clamp(0rem, 8vw, 4rem);
-  width: min(42vw, 18rem);
+  top: clamp(0.25rem, 3vh, 2rem);
+  right: clamp(4%, 12vw, 18%);
+  width: min(38vw, 17rem);
   aspect-ratio: 1;
   border-radius: 50%;
   background:
@@ -362,30 +389,21 @@ p {
     0 0 40px rgba(242, 246, 251, 0.55),
     0 0 100px rgba(242, 246, 251, 0.28),
     0 0 180px rgba(242, 246, 251, 0.14);
-  pointer-events: none;
-  z-index: -1;
   animation: moon-breathe 7s ease-in-out infinite;
 }
 
 .hero__moon::after {
   content: '';
   position: absolute;
-  inset: -35%;
+  inset: -40%;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(242, 246, 251, 0.2), transparent 68%);
+  background: radial-gradient(circle, rgba(242, 246, 251, 0.22), transparent 68%);
   z-index: -1;
 }
 
-.hero::before {
-  content: '';
-  position: absolute;
-  inset: -2rem -4vw auto;
-  height: min(70vh, 36rem);
-  background:
-    radial-gradient(ellipse 70% 55% at 78% 22%, rgba(242, 246, 251, 0.16), transparent 62%),
-    radial-gradient(ellipse 50% 40% at 18% 70%, rgba(111, 154, 134, 0.14), transparent 60%);
-  pointer-events: none;
-  z-index: -2;
+.hero__content {
+  width: min(100% - 2 * var(--space), var(--wide));
+  margin-inline: auto;
 }
 
 .hero__brand {
