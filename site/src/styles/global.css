@@ -563,12 +563,14 @@ p {
   list-style: none;
   margin: 0;
   padding: 0;
-  max-width: 42rem;
+  columns: 16rem;
+  column-gap: 2rem;
 }
 
 .dict-entry {
   padding: 0.85rem 0;
   border-bottom: 1px solid var(--line);
+  break-inside: avoid;
   animation: sample-in 0.45s ease both;
 }
 
