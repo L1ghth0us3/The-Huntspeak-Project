@@ -1,0 +1,27 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { textsRoot } from '../../lib/paths';
+import { renderMarkdown, dropLeadingH1 } from '../../lib/markdown';
+
+const revisedPath = path.join(textsRoot, 'tale-of-our-ancestors/revised.md');
+const raw = fs.readFileSync(revisedPath, 'utf8');
+const { body } = dropLeadingH1(raw);
+const html = renderMarkdown(body);
+---
+
+<BaseLayout
+  title="The Tale of Our Ancestors"
+  description="A Huntspeak legend of Zaiya, the cold moons, and Menphina’s counsel."
+  current="tale"
+>
+  <article class="prose">
+    <h1 class="page-title">The Tale of Our Ancestors</h1>
+    <p class="page-lead">
+      A short legend in Huntspeak — ancestors under cold moons, a mother named Zaiya, and a word from Menphina.
+      Read it for the sound of the language in longer stretches.
+    </p>
+    <div set:html={html} />
+  </article>
+</BaseLayout>

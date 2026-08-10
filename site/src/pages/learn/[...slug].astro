@@ -1,0 +1,51 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import LearnNav from '../../components/LearnNav.astro';
+import { learnPages } from '../../lib/learn';
+import { readMarkdownFile } from '../../lib/markdown';
+import { withBase } from '../../lib/paths';
+
+export function getStaticPaths() {
+  return learnPages.map((page) => ({
+    params: { slug: page.slug },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props;
+const { title: mdTitle, html } = readMarkdownFile(page.file);
+const title = mdTitle ?? page.title;
+
+const index = learnPages.findIndex((p) => p.slug === page.slug);
+const prev = index > 0 ? learnPages[index - 1] : null;
+const next = index < learnPages.length - 1 ? learnPages[index + 1] : null;
+---
+
+<BaseLayout title={title} current="learn">
+  <div class="learn-layout">
+    <LearnNav currentSlug={page.slug} />
+    <article class="prose">
+      <h1 class="page-title">{title}</h1>
+      <div set:html={html} />
+      <nav
+        style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:space-between;margin-top:2.5rem;font-family:var(--font-ui);font-size:0.92rem;"
+        aria-label="Chapter"
+      >
+        {
+          prev ? (
+            <a href={withBase(`/learn/${prev.slug}/`)}>← {prev.title}</a>
+          ) : (
+            <span />
+          )
+        }
+        {
+          next ? (
+            <a href={withBase(`/learn/${next.slug}/`)}>{next.title} →</a>
+          ) : (
+            <a href={withBase('/phrasebook/')}>Try the phrasebook →</a>
+          )
+        }
+      </nav>
+    </article>
+  </div>
+</BaseLayout>

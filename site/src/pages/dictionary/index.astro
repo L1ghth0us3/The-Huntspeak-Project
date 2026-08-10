@@ -1,0 +1,86 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { loadDictionaryEntries, initialLetter } from '../../lib/lexicon';
+
+const entries = loadDictionaryEntries();
+const letters = [...new Set(entries.map((e) => initialLetter(e.lemma)))].sort();
+---
+
+<BaseLayout
+  title="Dictionary"
+  description="Look up Huntspeak words — glosses and short notes from the project lexicon."
+  current="dictionary"
+>
+  <h1 class="page-title">Dictionary</h1>
+  <p class="page-lead">
+    Search by Huntspeak word or English gloss. Settled words and still-settling ones both appear;
+    provisional entries are marked so you know they may change.
+  </p>
+
+  <label class="visually-hidden" for="dict-q" style="position:absolute;left:-9999px">Search</label>
+  <input
+    id="dict-q"
+    class="dict-search"
+    type="search"
+    placeholder="Search lemma or gloss…"
+    autocomplete="off"
+  />
+
+  <div class="dict-letters" aria-label="Jump to letter">
+    {letters.map((letter) => <a href={`#letter-${letter}`}>{letter}</a>)}
+  </div>
+
+  <ul class="dict-list" id="dict-list">
+    {
+      entries.map((entry, i) => {
+        const letter = initialLetter(entry.lemma);
+        const prevLetter = i > 0 ? initialLetter(entries[i - 1].lemma) : null;
+        const showLetter = letter !== prevLetter;
+        return (
+          <li
+            class="dict-entry"
+            data-lemma={entry.lemma.toLowerCase()}
+            data-gloss={entry.gloss.toLowerCase()}
+            data-def={(entry.definition ?? '').toLowerCase()}
+          >
+            {showLetter && (
+              <h2 id={`letter-${letter}`} style="margin:1.5rem 0 0.35rem;font-size:1.1rem;">
+                {letter}
+              </h2>
+            )}
+            <div class="dict-entry__head">
+              <span class="dict-entry__lemma">{entry.lemma}</span>
+              <span class="chip">{entry.pos}</span>
+              {entry.status === 'provisional' && (
+                <span class="chip chip-provisional">provisional</span>
+              )}
+            </div>
+            <p class="dict-entry__gloss">{entry.gloss}</p>
+            {entry.definition && <p class="dict-entry__meta">{entry.definition}</p>}
+            {entry.ipa && <p class="dict-entry__meta">/{entry.ipa}/</p>}
+            {entry.root && <p class="dict-entry__meta">root: {entry.root}</p>}
+          </li>
+        );
+      })
+    }
+  </ul>
+</BaseLayout>
+
+<script>
+  const input = document.getElementById('dict-q') as HTMLInputElement | null;
+  const list = document.getElementById('dict-list');
+  if (input && list) {
+    const items = [...list.querySelectorAll<HTMLElement>('.dict-entry')];
+    input.addEventListener('input', () => {
+      const q = input.value.trim().toLowerCase();
+      for (const item of items) {
+        if (!q) {
+          item.hidden = false;
+          continue;
+        }
+        const hay = `${item.dataset.lemma} ${item.dataset.gloss} ${item.dataset.def}`;
+        item.hidden = !hay.includes(q);
+      }
+    });
+  }
+</script>

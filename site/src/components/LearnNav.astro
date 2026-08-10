@@ -1,0 +1,40 @@
+---
+import { withBase } from '../lib/paths';
+import { learnPages } from '../lib/learn';
+
+interface Props {
+  currentSlug?: string;
+}
+
+const { currentSlug } = Astro.props;
+
+const groups = [
+  { id: 'start', label: 'Start here' },
+  { id: 'grammar', label: 'Grammar' },
+  { id: 'reference', label: 'Reference' },
+] as const;
+---
+
+<nav class="learn-nav" aria-label="Learn path">
+  {
+    groups.map((group) => (
+      <div>
+        <div class="learn-nav__label">{group.label}</div>
+        <ol>
+          {learnPages
+            .filter((p) => p.group === group.id)
+            .map((page) => (
+              <li>
+                <a
+                  href={withBase(`/learn/${page.slug}/`)}
+                  aria-current={currentSlug === page.slug ? 'page' : undefined}
+                >
+                  {page.title}
+                </a>
+              </li>
+            ))}
+        </ol>
+      </div>
+    ))
+  }
+</nav>

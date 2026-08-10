@@ -1,0 +1,35 @@
+---
+import { withBase } from '../lib/paths';
+
+interface Props {
+  current?: string;
+}
+
+const { current } = Astro.props;
+
+const links = [
+  { href: '/learn/', id: 'learn', label: 'Learn' },
+  { href: '/phrasebook/', id: 'phrasebook', label: 'Phrasebook' },
+  { href: '/dictionary/', id: 'dictionary', label: 'Dictionary' },
+  { href: '/tale/', id: 'tale', label: 'The Tale' },
+  { href: '/about/', id: 'about', label: 'About' },
+];
+---
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="brand" href={withBase('/')}>Huntspeak</a>
+    <nav class="nav" aria-label="Primary">
+      {
+        links.map((link) => (
+          <a
+            href={withBase(link.href)}
+            aria-current={current === link.id ? 'page' : undefined}
+          >
+            {link.label}
+          </a>
+        ))
+      }
+    </nav>
+  </div>
+</header>

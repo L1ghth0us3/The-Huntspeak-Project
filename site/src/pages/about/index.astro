@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { withBase } from '../../lib/paths';
+---
+
+<BaseLayout
+  title="About"
+  description="What this Huntspeak project is, who it’s for, and how to take part."
+  current="about"
+>
+  <article class="prose">
+    <h1 class="page-title">About this project</h1>
+    <p class="page-lead">
+      Huntspeak started from a handful of official lines in Final Fantasy XIV. This community project
+      turns those scraps into something you can learn and use in roleplay.
+    </p>
+
+    <p>
+      The game tells us Huntspeak ranges from hunt signals (clicks and whistles) to a full spoken tongue,
+      that it differs between Seekers of the Sun and Keepers of the Moon, and that only a few tribes
+      still use the full language. Most of what you’ll find here expands that foundation from a
+      Moon / Keeper leaning — without pretending to be Square Enix canon.
+    </p>
+
+    <p>
+      We sometimes call the hunt-signal side <span class="hs">Khiädyasa</span> (“hunt-voice”) and the
+      full spoken language <span class="hs">Shilyasa</span> (“near-voice”). Those names are still
+      settling; the lessons on this site teach the full spoken language.
+    </p>
+
+    <h2>Where to go next</h2>
+    <ul>
+      <li><a href={withBase('/learn/')}>Start learning</a></li>
+      <li><a href={withBase('/phrasebook/')}>Phrasebook</a></li>
+      <li><a href={withBase('/dictionary/')}>Dictionary</a></li>
+      <li>
+        <a href="https://github.com/L1ghth0us3/The-Huntspeak-Project">GitHub repository</a>
+        — vocabulary files, grammar sources, and working notes
+      </li>
+      <li>
+        <a href="https://github.com/L1ghth0us3/The-Huntspeak-Project/blob/main/CONTRIBUTING.md"
+          >How to contribute</a
+        >
+      </li>
+    </ul>
+
+    <p>
+      Official in-game material is kept separate in the repo’s <code>canon/</code> folder. Where the
+      game speaks, the game wins; everything else is community expansion.
+    </p>
+  </article>
+</BaseLayout>

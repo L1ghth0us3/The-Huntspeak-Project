@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import LearnNav from '../../components/LearnNav.astro';
+import { withBase } from '../../lib/paths';
+---
+
+<BaseLayout
+  title="Learn"
+  description="A clear path through Huntspeak: sounds, grammar, and quick tables."
+  current="learn"
+>
+  <div class="learn-layout">
+    <LearnNav />
+    <div class="prose">
+      <h1 class="page-title">Learn Huntspeak</h1>
+      <p class="page-lead">
+        Work through these pages in order. By the end you’ll know how sentences fit together,
+        how verbs carry who and when, and where to look things up quickly.
+      </p>
+      <p>
+        Prefer jumping straight into useful lines?
+        <a href={withBase('/phrasebook/')}>Open the phrasebook</a>.
+      </p>
+      <ol>
+        <li><a href={withBase('/learn/introduction/')}>What Huntspeak is</a></li>
+        <li><a href={withBase('/learn/pronunciation/')}>Sounds and spelling</a></li>
+        <li><a href={withBase('/learn/grammar/01-sentences/')}>Grammar chapters</a></li>
+        <li><a href={withBase('/learn/reference/tables/')}>Quick tables</a></li>
+      </ol>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,19 @@
+---
+import path from 'node:path';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { docsRoot } from '../../lib/paths';
+import { readMarkdownFile } from '../../lib/markdown';
+
+const { title: mdTitle, html } = readMarkdownFile(path.join(docsRoot, 'usage/phrasebook.md'));
+---
+
+<BaseLayout
+  title={mdTitle ?? 'Phrasebook'}
+  description="Ready-to-use Huntspeak for greetings, the hunt, feelings, and small talk."
+  current="phrasebook"
+>
+  <article class="prose">
+    <h1 class="page-title">{mdTitle ?? 'Phrasebook'}</h1>
+    <div set:html={html} />
+  </article>
+</BaseLayout>
